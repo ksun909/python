@@ -1,0 +1,3015 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ko">
+
+
+
+
+<head>
+    <title id="headTitle">
+    	
+    		
+    		
+    		쫄깃하고 맛있는 가지장아찌만들기  몸에좋은보라색~항암작용.명품장아찌
+    	
+    </title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="robots" content="noindex">
+    
+
+
+
+
+
+
+
+
+
+    
+    <meta name="twitter:card" content="summary_large_image">
+    
+    
+    <meta name="twitter:image" content="https://phinf.pstatic.net/tvcast/20220719_26/9EJOG_1658227120601F4nv8_JPEG/1658226820826.jpeg?type=f880_495_blend_s">
+    
+    
+    <meta property="al:android:url" content="naverplayer://vod_play?minAppVersion=1600&amp;schemeVersion=2&amp;clipNo=28039069">
+    <meta property="al:android:app_name" content="Naver TV">
+    <meta property="al:android:package" content="com.nhn.android.naverplayer">
+    <meta property="al:web:url" content="https://tv.naver.com/v/28039069">
+    
+
+    <meta property="fb:admins" content="100012287952710" />
+    <meta property="fb:app_id" content="232491033870086" />
+
+    <meta property="og:url" content='https://tv.naver.com/v/28039069'>
+    <meta property="og:title" content="쫄깃하고 맛있는 가지장아찌만들기  몸에좋은보라색~항암작용.명품장아찌">
+    <meta property="og:description" content="빵숙cook | [재료]
+가지 5개, 양파큰거 1개, 청양고추 4개
+
+[간장양념장]
+마늘 5개, 다시마 5조각, 물 400ml, 진간장 200ml
+설탕 100ml, 식초 100ml">
+    
+    <meta property="og:type" content='video'>
+    
+
+    
+    
+        
+        <meta property="og:video:url" content='https://tv.naver.com/embed/28039069?autoPlay=true'>
+        <meta property="og:video:secure_url" content='https://tv.naver.com/embed/28039069?autoPlay=true'>
+        <meta property="og:video:type" content='text/html'>
+        <meta property="og:video:width" content='1280'>
+        <meta property="og:video:height" content='720'>
+        
+        
+        <meta property="og:video:tag" content='가지장아찌'>
+        
+        <meta property="og:video:tag" content='장아찌'>
+        
+        <meta property="og:video:tag" content='밑반찬'>
+        
+        <meta property="og:video:tag" content='밥반찬'>
+        
+        <meta property="og:video:tag" content='장아찌담그기'>
+        
+        <link rel="alternate" type="application/json+oembed" href="https://tv.naver.com/oembed?url=https://tv.naver.com/v/28039069&format=json" title="쫄깃하고 맛있는 가지장아찌만들기  몸에좋은보라색~항암작용.명품장아찌">
+        <link rel="alternate" type="text/xml+oembed" href="https://tv.naver.com/oembed?url=https://tv.naver.com/v/28039069&format=xml" title="쫄깃하고 맛있는 가지장아찌만들기  몸에좋은보라색~항암작용.명품장아찌">
+    
+    
+
+    
+    <meta property="og:image" content='https://phinf.pstatic.net/tvcast/20220719_26/9EJOG_1658227120601F4nv8_JPEG/1658226820826.jpeg?type=f880_495_blend'>
+    
+    
+    <meta property="og:article:author" content="빵숙cook">
+    
+    
+    <meta property="og:article:author:image" content="https://phinf.pstatic.net/tvcast/20190520_212/6ryZj_1558361645681SJNcK_PNG/1558361645663.png">
+    
+    
+    <meta property="naver:video:type" content="rmc">
+    <meta property="naver:video:id" content="0722F531B4A266E2F0C99B47E89DC28DDC78">
+    <meta property="naver:video:play_time" content="186">
+    <meta property="naver:video:play_count" content="6971">
+    <meta property="naver:video:likeit_count" content="23">
+    
+
+
+
+
+    <link rel="stylesheet" type="text/css" href='/resources/release/css/tvcast_20220714152047.css'  />
+    <link rel="stylesheet" type="text/css" href='/resources/release/css/contest_20220714152047.css'  />
+
+    <script type="text/javascript" src="https://ssl.pstatic.net/img.tvcast/pc/js/jQuery/jQuery.1.11.3.min.js"></script>
+    <script type="text/javascript" src="https://ssl.pstatic.net/img.tvcast/pc/js/jQuery/jQuery.cookie.1.4.1.min.js"></script>
+    <script type="text/javascript" src="https://ssl.pstatic.net/img.tvcast/pc/js/eg/eg.1.3.0.pkgd.min.js"></script>
+    <script type="text/javascript" src="https://ssl.pstatic.net/img.tvcast/pc/js/jQuery/perfect-scrollbar.jquery.min.js"></script>
+    
+    <script type="text/javascript">
+        jQuery.noConflict();
+
+        jQuery.cookie.defaults.path = '/';
+
+        jQuery.ajaxSetup({
+            cache: true
+        });
+    </script>
+
+    <script type="text/javascript" src='/resources/release/js_v2/clickcr_20220714152047.js'></script>
+    <script type="text/javascript" src='/resources/release/js_v2/tvcast.Common_20220714152047.js'></script>
+    
+	
+	
+	
+	
+		
+		
+		
+	
+
+    
+    
+		<script src="https://ssl.pstatic.net/tveta/libs/ssp-video/prod/ssp.web.sdk_2.3.0.js"></script>
+    
+    
+	
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src='/resources/release/js_v2/respond/respond.src_20220714152047.js'></script>
+    <![endif]-->
+</head>
+
+
+
+
+
+
+
+
+<body class="    ">
+<div id="u_skip">
+    <a href="#aside" onclick="document.getElementById('aside').tabIndex=-1;document.getElementById('aside').focus();return false;"><span>메인 메뉴로 바로가기</span></a>
+    <a href="#container" id="gnb_goContent" onclick="document.getElementById('container').tabIndex=-1;document.getElementById('container').focus();return false;"><span>본문으로 바로가기</span></a>
+</div>
+<div id="wrap">
+
+
+
+
+
+
+
+
+
+
+
+<!--[if lt IE 9]>
+
+<div class="notice_bnr" id="notice_bnr">
+	<strong class="txt_notice">지금 사용중인 브라우저는 7월 이후 동영상 재생이 불가능합니다. 빠르고 안전한 <a href="https://whale.naver.com/ko/" target="_blank" class="link_whale" onclick="clickcr(this, 'STA.whaledown', '','');"><img src="https://ssl.pstatic.net/static/tv/navertv/pc/img/img_whale.png" width="28" height="20" alt="" class="icon_whale">네이버 웨일</a>로 업데이트 하세요!</strong>
+	<a href="https://help.naver.com/support/contents/contents.help?serviceNo=3609&categoryNo=22360" target="_blank" class="link_notice" onclick="clickcr(this, 'STA.help', '','');">도움말 보기 <img src="https://ssl.pstatic.net/static/tv/navertv/pc/img/top_notice_arr.png" width="6" height="10" alt="" class="icon_arr"></a>
+</div>
+
+<![endif]-->
+
+<div id="header">
+	<iframe frameborder="0" scrolling="no" src="about:blank" style="position:absolute;left:0;top:0;width:100%;height:60px;border:none;vertical-align:bottom" title="빈 프레임"></iframe>
+
+	<div class="header_wrap">
+		<div class="header_content">
+			<h1 class="head_logo">
+				<a href="https://tv.naver.com" class="logo_navertv">
+					<span class="blind">네이버 TV</span>
+				</a>
+			</h1>
+
+			<div class="head_search">
+				
+				<div class="search _searchAutoComplete" id="searchBoxWrapper">
+					<form id="searchForm">
+						<fieldset>
+							<legend>검색</legend>
+							<div class="input_wrap">
+								<span class="ipt_srch">
+									<label for="searchQuery" class="blind">검색어를 입력하세요.</label>
+									<input id="searchQuery" class="" name="query" value="" type="text" placeholder="검색어를 입력하세요" title="검색어를 입력하세요" style="width:100%" autocomplete="off">
+									<span class="auto_tx"><a href="#" class="_autoTxLink _toggle_btn" onclick="return false;"><img class="_arrow" src="https://ssl.pstatic.net/static/tv/navertv/pc/img/icon_searchbar_arr_down.png" width="8" height="5" id="acButton" alt="자동완성 펼치기"></a></span>
+								</span>
+								<a href="javascript:;" title="검색" id="searchButton" class="btn_search">검색</a>
+
+								<div class="auto_tx_area ly_atcmp wrap _suggestView" id="acView" style="display:none;">
+									<iframe frameborder="0" scrolling="no" src="about:blank" style="position:absolute;left:0;top:0;width:100%;height:100%;border:none;vertical-align:bottom" title="검색 폼"></iframe>
+									
+									<div class="wrap_recent_search" id="recentKeywordView" style="display:none">
+										<div class="recent_search_header">
+											<p class="tit">최근 검색어</p>
+										</div>
+										<ul class="list_recent_search _recentSearchBox" style="display:block" id="recentResultBox">
+											<li data-order="@order@" data-search-type="recent" data-keyword="@inKeyword@">
+												<a href="javascript:void(0)" class="recent_keyword" onclick="clickcr(this, 'STA.searchrecent', '', '', event)">
+													<span class="recent_keyword_txt">@keyword@</span>
+												</a>
+												<a href="javascript:void(0)" class="btn_del_keyword _recentKeywordDeleteBtn">
+													<span class="blind">삭제</span>
+												</a>
+											</li>
+										</ul>
+									</div>
+									
+
+									
+									<div class="auto_txt words _resultArea" id="autocompleteView" style="display:none">
+										<ul class="_resultBox">
+											<li data-search_type="not used">
+												<a href="javascript:void(0);" class="atcmp_keyword">
+													<span class="atcmp_keyword_img">@imageTag@</span>
+													<span class="atcmp_keyword_txt">@txt@</span>
+												</a>
+											</li>
+										</ul>
+
+										<ul class="_resultBox list_keyword_hash">
+											<li data-search-type="tag" data-txt="@in_txt@">
+												<a href="javascript:void(0);" class="atcmp_keyword">
+													<span class="atcmp_keyword_hash"><span class="blind">#</span></span>
+													<span class="atcmp_keyword_txt">@txt@</span>
+												</a>
+											</li>
+										</ul>
+
+										<ul class="_resultBox list_keyword_ch">
+											<li data-search-type="channel" data-display-channel-id="@linkUrl@" data-txt="@in_txt@">
+												<a href="javascript:void(0);" class="atcmp_keyword">
+													<span class="atcmp_keyword_img">@imageTag@</span>
+													<span class="atcmp_keyword_txt">@txt@</span>
+												</a>
+											</li>
+										</ul>
+
+									</div>
+									<p class="at_alert _alert" id="autocompleteAlertView" style="display:none;top:578px">자동완성 기능이 활성화되었습니다.</p>
+									<div class="auto_tx_foorer _footer" id="autocompleteAllView">
+										<a href="#" id="searchButtonAll" class="all_result _search" onclick="return false;">전체 검색 결과보기</a>
+										<p class="auto_tx_etc">
+											<a href="#" class="clse _unuse_btn" onclick="return false;">자동완성 끄기</a>
+										</p>
+										<img src="https://ssl.pstatic.net/img.tvcast/pc/img/img_atcmp.png" width="268" height="28" class="help _use_guide" style="display:none;position:absolute;bottom:25px;right:4px" alt="기능을 다시 켤 때는 자동완성 펼치기를 선택하세요.">
+									</div>
+								</div>
+							</div>
+						</fieldset>
+					</form>
+				</div>
+				
+			</div>
+
+			
+			<div class="gnb_wrap">
+				<a href="https://studio.tv.naver.com" class="btn_gnb btn_cs" onclick="clickcr(this, 'STA.studio', '', '');" aria-label="Creator Studio 바로가기"></a>
+				<a href="https://studio.tv.naver.com/clip/register" class="btn_gnb btn_upload" onclick="clickcr(this, 'STA.upload', '', '');" aria-label="동영상 업로드"></a>
+
+				<div id="gnb" class="gnb_my">
+					
+						<a href="https://nid.naver.com/nidlogin.login" class="btn_gnb btn_login _btnLogin" onclick="clickcr(this, 'STA.login', '', '');">로그인</a>
+					
+
+					
+					
+					<a href="#" class="btn_mymenu _btnMyMenu" role="button" aria-label="나의 메뉴 보기" aria-haspopup="true" aria-expanded="false" style="display: none;">
+						<img src="https://ssl.pstatic.net/static/common/myarea/myInfo.gif" class="_btnMyMenuImg" width="28" height="28" alt="프로필 사진">
+					</a>
+
+					<div class="layer_mymenu _layerMyMenu">
+						
+							
+								<div class="mychannel_none">
+									<p class="guide">
+										보유하고 있는 채널이 없습니다. <br>
+										지금 채널을 만들어 보세요.
+									</p>
+									<a class="link" href="https://studio.tv.naver.com/channel/register" onclick="clickcr(this, 'MYP.create', '', '');">채널 만들기</a>
+								</div>
+							
+							
+						
+
+						<a class="btn_logout _btnLogOut" href="https://nid.naver.com/nidlogin.logout" onclick="clickcr(this, 'MYP.logout', '', '');" role="button">로그아웃</a>
+					</div>
+					
+				</div>
+			</div>
+			
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+	var ghtGnb = {
+		sRequestUrl: 'https://ac.tv.naver.com/ac',
+		sAutoCompleteV2: '/resources/release/js_v2/service_common/nautocomplete_20220714152047.js',
+		sAutoCompleteV2View: '/resources/release/js_v2/service_common/tvcast.pc.SuggestView_20220714152047.js',
+		sAutoTemplateImageTag: '<img src="https://phinf.pstatic.net/tvcast@emblemUrl@?type=round_31_31" onerror="this.src=\'https://phinf.pstatic.net/tvcast/20161227_13/photoinfra_1482831946369BANUd_PNG/default_round_ch.png?type=round_31_31\'" width="22" height="22" alt="임시 이미지">',
+		bIsLogin : false
+	};
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="aside" class="side_menu" role="navigation">
+	<iframe frameborder="0" scrolling="no" src="about:blank" style="position:absolute;left:0;top:0;width:100%;height:100%;border:none;vertical-align:bottom" title="빈 프레임"></iframe>
+	<button id="menuButton" class="btn_aside" type="button" aria-label="메뉴" aria-labelledby="asideToolTip"></button>
+
+	
+	<div class="aside_wrap _sideMenu" aria-hidden="false">
+		<div id="menuScrollBox" class="scrollbar">
+			<ul class="list_snb _asideListSnb">
+				
+				<li class="snb_home _listSnbHome">
+					<a class="link_snb" href="https://tv.naver.com/" onClick="clickcr(this, 'mnu.home', '', '', event)">
+						<span class="icon icon_home"></span>
+						<span class="title">홈</span>
+					</a>
+				</li>
+
+				<li class="snb_popular _listSnbPopular">
+					<a class="link_snb" href="https://tv.naver.com/r/" onClick="clickcr(this, 'mnu.popular', '', '', event)">
+						<span class="icon icon_popular"></span>
+						<span class="title">인기영상</span>
+					</a>
+				</li>
+
+				<li class="snb_live _listSnbLive">
+					<a class="link_snb" href="https://tv.naver.com/l/livehome" onClick="clickcr(this, 'mnu.livetb', '', '', event)">
+						<span class="icon icon_live"></span>
+						<span class="title">라이브<span class="icon_beta"><span class="blind">"beta"</span></span></span>
+					</a>
+
+				</li>
+
+				
+				
+				<li class="snb_my _listSnbMy">
+					<a class="link_snb" href="/my/playlist/?type=recent" onClick="clickcr(this, 'mnu.my', '', '', event)">
+						<span class="icon icon_my"></span>
+						<span class="title">MY</span>
+					</a>
+
+					<input class="snb_toggle _snbToggle" data-toggletype="MY" type="checkbox" name="subMenu" onClick="clickcr(this, 'mnu.mymore', '', '', event)" id="subMenu1" aria-hidden="false">
+					<label class="btn_sub" for="subMenu1" role="button" tabindex="0" aria-label="하위 메뉴 토글"></label>
+
+					<ul class="list_sub">
+						
+						<li class="_listSubMyRecent">
+							<a href="https://tv.naver.com/my/playlist/?type=recent" class="menu_cnt" onClick="clickcr(this, 'mnu.watched', '', '', event)">최근 본 영상</a>
+						</li>
+						<li class="_listSubMyWatchlater">
+							<a href="https://tv.naver.com/my/playlist/?type=watch_later" class="menu_cnt" onClick="clickcr(this, 'mnu.history', '', '', event)">나중에 볼 영상</a>
+						</li>
+						<li class="_listSubMyLikeit">
+							<a href="https://tv.naver.com/my/playlist/?type=likeit" class="menu_cnt" onClick="clickcr(this, 'mnu.like', '', '', event)">좋아요 한 영상</a>
+						</li>
+					</ul>
+				</li>
+
+				<!-- NOW OPEN 배너 -->
+				<a href="/s/updatetonow" target="_blank" rel="noopener" style="">
+					<img src="https://ssl.pstatic.net/static/tv/navertv/pc/img/ntv_now_banner.png" alt="네이버TV의 새로운 이름, NOW" width="220" height="160" />
+				</a>
+				<!-- //NOW OPEN 배너 -->
+
+				
+				<li id="myArea" class="snb_feed _listSnbFeed _myMenu" data-login="false">
+					
+					
+
+
+
+
+
+
+
+
+<a class="link_snb" href="https://tv.naver.com/my/subscription/updated" onClick="clickcr(this, 'mnu.feed', '', '', event)">
+	<span class="icon icon_feed"></span>
+	<span class="title">구독</span>
+</a>
+
+
+	
+
+	
+
+	
+		
+		<p class="nolist">
+			관심있는 채널을 구독하여<br>업데이트 동영상을 받아보세요.
+			<a class="btn_ch_search" href="/r/channel" onClick="clickcr(this, 'mnu.watch', '', '', event)">채널 탐색하기</a>
+		</p>
+	
+
+
+				</li>
+
+				
+				<li class="snb_theme _listSnbTheme _exclusiveMenu" id="brandArea">
+					<a class="link_snb" href="/p/class" onClick="clickcr(this, 'mnu.theme', '', '', event)">
+						<span class="icon icon_theme"></span>
+						<span class="title">테마</span>
+					</a>
+
+					<input class="snb_toggle _snbToggle" data-toggletype="THEME" type="checkbox" name="subMenu" id="subMenu3" onClick="clickcr(this, 'mnu.thememore', '', '', event)" aria-hidden="false">
+					<label class="btn_sub" for="subMenu3" role="button" tabindex="0" aria-label="하위 메뉴 토글"></label>
+
+					<ul class="list_sub _brand">
+					</ul>
+
+					
+					<a href="#" class="btn_list_sub_more _click _exclusiveMenuFoldState" data-event="foldExclusiveMenu">더보기</a>
+				</li>
+
+				<li id="smrBrandArea" class="snb_broad _listSnbBrand">
+					<a class="link_snb" href="/b/tvchosun" onClick="clickcr(this, 'mnu.media', '', '', event)">
+						<span class="icon icon_broad"></span>
+						<span class="title">방송관</span>
+					</a>
+
+					<input class="snb_toggle _snbToggle" data-toggletype="BRAND" type="checkbox" name="subMenu" id="subMenu4" onClick="clickcr(this, 'mnu.mediamore', '', '', event)" aria-hidden="false">
+					<label class="btn_sub" for="subMenu4" role="button" tabindex="0" aria-label="하위 메뉴 토글"></label>
+
+					<ul class="list_sub _smrBrand">
+					</ul>
+				</li>
+
+				<li class="snb_etc _listSnbEtc">
+					<ul class="list_sub">
+						
+						<li class="_listSubPatron">
+							<a href="/special/patron" onClick="clickcr(this, 'mnu.patron', '', '', event)">후원하기<span class="icon_beta"><span class="blind">"beta"</span></span></a>
+						</li>
+						<li class="_listSubPlay">
+							<a href="/play/" onClick="clickcr(this, 'mnu.playleague', '', '', event)">플레이리그</a>
+						</li>
+						<li class="_listSubNstore">
+							<a href="http://serieson.naver.com/broadcasting/home.nhn" onClick="clickcr(this, 'mnu.tvlink', '', '', event)" target="_blank">방송 다시보기</a>
+						</li>
+						<li class="_listSubBlog">
+							<a href="http://blog.naver.com/nv_tvcast" target="_blank" onClick="clickcr(this, 'mnu.attention', '', '', event)">공식블로그</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+	
+
+	
+	<ul class="fold_snb _foldSnb">
+		<li class="snb_home _listSnbHomeFold">
+			<a class="link_snb" href="https://tv.naver.com/" onClick="clickcr(this, 'mnu.home', '', '', event)" aria-label="홈">
+				<span class="icon icon_home"></span>
+			</a>
+		</li>
+
+		<li class="snb_popular _listSnbPopularFold">
+			<a class="link_snb" href="https://tv.naver.com/r/" onClick="clickcr(this, 'mnu.top100', '', '', event)" aria-label="인기영상">
+				<span class="icon icon_popular"></span>
+			</a>
+		</li>
+
+		<li class="snb_live _listSnbLiveFold">
+			<a class="link_snb" href="https://tv.naver.com/l/livehome" onClick="clickcr(this, 'mnu.livetb', '', '', event)" aria-label="라이브">
+				<span class="icon icon_live"></span>
+			</a>
+		</li>
+
+		<li class="snb_my _listSnbMyFold">
+			<a class="link_snb" href="/my/playlist/?type=recent" onClick="clickcr(this, 'mnu.my', '', '', event)" aria-label="MY">
+				<span class="icon icon_my"></span>
+			</a>
+		</li>
+
+		<li class="snb_feed _listSnbFeedFold">
+			<a class="link_snb" href="https://tv.naver.com/my/subscription/updated" onClick="clickcr(this, 'mnu.update', '', '', event)" aria-label="구독">
+				<span class="icon icon_feed"></span>
+			</a>
+		</li>
+
+		<li class="snb_theme _listSnbThemeFold">
+			<a class="link_snb" href="/p/class" onClick="clickcr(this, 'mnu.theme', '', '', event)" aria-label="테마">
+				<span class="icon icon_theme"></span>
+			</a>
+		</li>
+	</ul>
+	
+</div>
+
+
+
+
+
+
+
+
+
+
+<div id="container" class="end_container" role="main">
+
+
+
+
+
+
+
+<div id="clipEndTop">
+
+
+<div id="topChannelInfo" class="end_title" >
+    <div class="info_wrap">
+    
+        
+        
+        
+        
+            
+
+
+
+
+
+
+
+
+
+<div class="ch_tit">
+    <a href="https://tv.naver.com/kyscook" class="ic_ch" onclick="clickcr(this, 'chi.title', '', '', null)">
+         <img
+           src="https://phinf.pstatic.net/tvcast/20190520_212/6ryZj_1558361645681SJNcK_PNG/1558361645663.png?type=round_96_96"
+           onerror='this.src="https://phinf.pstatic.net/tvcast/20161227_13/photoinfra_1482831946369BANUd_PNG/default_round_ch.png?type=round_96_96"'
+           alt="빵숙cook"
+           width="38" height="38">
+    	 <span class="mask"></span>
+   	</a>
+   	<h2>
+    	<a href="https://tv.naver.com/kyscook" onclick="clickcr(this, 'chi.title', '', '', null)" title="빵숙cook">
+		빵숙cook
+		</a>
+    </h2>
+</div>
+
+
+<div class="ch_sp">
+    <a href="javascript:;" class="_subscribe btn_subscribe" data-channel-id="kyscook" data-subs-only="false" data-subscription-count="-1" data-area-code="chi" style="display:none">
+		<span class="txt"><em class="ic"></em>구독</span>
+	</a>
+	
+   	
+</div>
+<span class="brod_inf">
+	
+		
+		
+		
+			
+		
+	
+	<span class="sub">구독 3,613명</span>
+</span>
+        
+    
+    
+   </div>
+</div>
+    
+
+</div>
+
+<div id="subs_cancel_alert" style="display:none;">
+    <div class="pl_layer">
+        <div class="layer_wrap">
+            <div class="layer_ct">
+                <div class="layer_pop v5">
+                    <div class="layer_box">
+                        <p class="txt">
+                            이 동영상은 구독한 사용자만<br>시청할 수 있습니다.<br>
+                            구독을 취소하면 영상을 시청할 수 없습니다.<br>
+                            구독을 취소하시겠습니까?
+                        </p>
+                        <div class="btn_area">
+                            <a href="#" class="btn" id="cancelForAlert">취소</a>
+                            <a href="#" class="btn on" id="unsubscribeForAlert" data-channel-id="kyscook">구독 취소</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="dimd" style="display:block"></div>
+</div>
+
+    <!-- 플레이어 -->
+    <div class="player">
+        <div class="player_container" id="wrap_player">
+            <!-- 플레이어 영역 -->
+            <div class="video_player _player">
+                <div class="video_area">
+                    <div id="playerArea" class="video_content">
+                        
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+
+	
+	
+		<link rel="stylesheet" type="text/css" href="/resources/release/css/player/vod_guide_20220714152047.css"/>
+
+		
+
+		
+			
+			<div id="player" style="width:100%; height:100%"></div>
+			
+			
+			
+			
+
+
+
+
+
+
+
+    
+    
+    
+
+
+			<script type="text/javascript" src='/resources/release/npm/player/prismplayer.umd.min_20220714152047.js'></script>
+			<script type="text/javascript" src="/resources/release/js_v2/player/tvcast.PlayLogger_20220714152047.js"></script>
+			<script type="text/javascript" src="/resources/release/js_v2/player/tvcast.pc.PlayTimeLogger_20220714152047.js"></script>
+			<script type="text/javascript" src="/resources/release/js_v2/tvcast.pc.MyPage_20220714152047.js"></script>
+			<script type="text/javascript" src="/resources/release/js_v2/service_common/tvcast.ClientSize_20220714152047.js"></script>
+			<script type="text/javascript" src="/resources/release/js_v2/player/BaseWrapPlayer_20220714152047.js"></script>
+			<script type="text/javascript" src="/resources/release/js_v2/common/hand-off_20220714152047.js"></script>
+
+			<script type="text/javascript">
+				var nGapTime = 1659792163904 - new Date().getTime();
+				var isGlobalExpand = !!'';
+				var isPc = "true";
+
+				
+				
+					jQuery.removeCookie("ISAUTO");
+				
+					jQuery.removeCookie("AUTOCNT");
+				
+
+				var NFM_cookie = jQuery.cookie("NFM_TV");
+
+				
+				
+				
+					var autoPlayVal = "true" === "true";
+				
+				
+
+				var playerOptions = {
+					"videoId" : "0722F531B4A266E2F0C99B47E89DC28DDC78",
+					"inKey" : "V126df28df26d948af259db25dc0f3b6c82d6dfc9bbfd5a69f11149c3fbdf829b9cf5db25dc0f3b6c82d6",
+					"rmcSid" : "2010",
+					"serviceapiDomainRMC" : "https://serviceapi.rmcnmv.naver.com",
+					"autoPlay" : autoPlayVal,
+					"nsc" : "tvcast.end",
+					"apiAd" : "http://ad.nmv.naver.com/ad",
+					"advertiseInfo" : '[{"adSystem":"AMS"}]',
+					"advertiseUrl" : "https://ams.rmcnmv.naver.com/item/create/2010/NAVER?ams_ctgr=FOOD&ams_chnl=kyscook&ams_videoId=0722F531B4A266E2F0C99B47E89DC28DDC78&ams_cp=53423&navervodtype=RMC&su=SU10138&calp=kyscook&cp=53423&st=53464&chl=kyscook&cat=FOOD&cl=28039069&svc=ntv_vod&cc=N&v_theme=foodtv&ams_rule=%5B%7B%22type%22%3A%22pre%22%2C%22exposure%22%3Atrue%2C%22replayExposure%22%3Atrue%7D%2C%7B%22type%22%3A%22mid%22%2C%22exposure%22%3Atrue%2C%22replayExposure%22%3Atrue%7D%2C%7B%22type%22%3A%22post%22%2C%22exposure%22%3Atrue%2C%22replayExposure%22%3Atrue%7D%2C%7B%22type%22%3A%22overlay%22%2C%22exposure%22%3Afalse%7D%5D",
+					"vendor" : "NAVER",
+					"countryCode" : "KR",
+					"interfaceLang" : "ko_KR",
+					"serviceDomain" : "https://tv.naver.com",
+					"clipNo" : "28039069",
+					"vr360" : Boolean(false),
+					"isGlobalExpand" : isGlobalExpand,
+					"isAdult" : "N",
+					"playerAuth" : "player",
+					"channelId" : "kyscook",
+					"playStartTime" : "0",
+					"channelName": jQuery(new DOMParser().parseFromString("빵숙cook", 'text/html')).find('body').text(),
+					"channelEmblem": 'https://phinf.pstatic.net/tvcast/20190520_212/6ryZj_1558361645681SJNcK_PNG/1558361645663.png?type=round_96_96',
+					"fallbackChannelEmblem": "https://phinf.pstatic.net/tvcast/20161227_13/photoinfra_1482831946369BANUd_PNG/default_round_ch.png?type=round_96_96",
+					"channelSubscriptionCount": "3,613",
+					"channelDefaultImage": "https://phinf.pstatic.net/tvcast/20161227_13/photoinfra_1482831946369BANUd_PNG/default_round_ch.png?type=round_96_96",
+					"env": 'real',
+					"photoInfraUrl": 'https://phinf.pstatic.net/tvcast',
+					"smrYn": 'N',
+					"clip": {
+						title: jQuery(new DOMParser().parseFromString("\uCAC4\uAE43\uD558\uACE0 \uB9DB\uC788\uB294 \uAC00\uC9C0\uC7A5\uC544\uCC0C\uB9CC\uB4E4\uAE30  \uBAB8\uC5D0\uC88B\uC740\uBCF4\uB77C\uC0C9~\uD56D\uC554\uC791\uC6A9.\uBA85\uD488\uC7A5\uC544\uCC0C", 'text/html')).find('body').text(),
+						thumbnail: 'https://phinf.pstatic.net/tvcast/20220719_26/9EJOG_1658227120601F4nv8_JPEG/1658226820826.jpeg?type=f880_495_blend',
+						channelName: jQuery(new DOMParser().parseFromString("빵숙cook", 'text/html')).find('body').text()
+					}
+				};
+
+				
+				
+				
+					playerOptions.smrTrackingData = "";
+				
+				
+
+				
+					playerOptions.gladParam = {"videoAdScheduleId":"NDP_SCH","videoAdSchedulePolicy":{"pre":true,"mid":false,"post":true},"videoAdScheduleParam":{"duration":186},"sid":"2010","vid":"0722F531B4A266E2F0C99B47E89DC28DDC78","calp":"kyscook","cp":"53423","chl":"kyscook","cl":"28039069","svc":"ntv_vod","cc":"N","vtheme":"foodtv","ctry":"KR","ta":0};
+					playerOptions.isShareType = false;
+				
+
+				function playRelationVideo(clipNo) {
+					location.href = "https://tv.naver.com/v/" + clipNo;
+				}
+
+				function helpPopup() {
+					window.open('https://help.naver.com/support/contents/contents.nhn?serviceNo=705&categoryNo=6030','cassiodHelpPopup','width=1008,height=800, scrollbars=yes, resizable=yes');
+				}
+
+				var playLoggerOptions = {
+					apiDomain: 'https://logapi.tv.naver.com',
+					clipNo: '28039069',
+					playlistNo: '',
+					beforeClipNo: jQuery.cookie("NTC_BEFORE_CLIP"),
+					device: Boolean(true) ? 'PC' : 'MO'
+				};
+				tvcast.PlayLogger = new PlayLogger(playLoggerOptions);
+			</script>
+		
+
+
+		<script type="text/javascript">
+			jQuery.cookie('smr_ppc', '0', {expires:30});
+			jQuery.cookie('smr_pb', '', {expires:30});
+
+			function reloadPage() {
+				document.location.reload();
+			}
+		</script>
+
+		<div id="player_country" class="nation_error" style="display:none;">
+			<div class="nation_box">
+					
+				<p class="ko_KR">영상 권리자의 요청으로<br>접속하신 국가에서는 해당 영상을 재생할 수 없습니다.</p>
+			</div>
+		</div>
+		<div id="player_auth" style="display:none;width:100%; height:100%; background-color:#000;">
+			
+			<div class="player_error">
+				<div class="error_box">
+					<p class="msg">
+						<span class="txt">19세 미만 청소년은 감상하실 수 없는 동영상으로<br>본인인증 후 이용이 가능합니다.</span>
+						<a id="authLogin" href="https://nid.naver.com/user2/help/realNameCheck?type=11&a_version=2&surl=https://tv.naver.com/v/28039069&rurl=https://tv.naver.com/v/28039069" class="btn_more">본인인증하기</a>
+					</p>
+				</div>
+			</div>
+			
+		</div>
+		<div id="player_subscription" style="display:none;width:100%; height:100%; background-color:#000;">
+			
+			<div class="player_error">
+				<div class="error_box">
+					<p class="msg">
+						<span class="txt">이 동영상은 구독한 사용자만 시청할 수 있습니다.<br/>동영상을 시청하려면 구독해 주세요.</span>
+					</p>
+				</div>
+			</div>
+			
+		</div>
+	
+
+
+<script type="text/javascript">
+	var cookieLifeDays = 90;
+	var cookieName = "tvcastDefaultResolution";
+	var cookieDomain = "tv.naver.com";
+	var cookiePath = "/";
+
+	jQuery.cookie('smr_ppc', '0', {expires:30});
+    jQuery.cookie('smr_pb', '', {expires:30});
+
+	function reloadPage() {
+		document.location.reload();
+	}
+</script>
+                        <span class="mask"></span>
+                        <span class="mask2"></span>
+                    </div>
+                </div>
+
+                
+                
+
+
+
+
+
+
+
+
+
+<div id="clipEndInfo">
+	<div id="clipInfoArea" class="video_watch ">
+		
+
+
+
+
+
+
+
+
+
+    
+        
+    
+    
+
+
+<div class="watch_title">
+    <h3 class="_clipTitle" title="쫄깃하고 맛있는 가지장아찌만들기  몸에좋은보라색~항암작용.명품장아찌">쫄깃하고 맛있는 가지장아찌만들기  몸에좋은보라색~항암작용.명품장아찌</h3>
+    
+    <div class="title_info">
+        <span class="play">재생수 6,971</span>
+        <span class="date">2022.07.19.</span>
+        <a href="#" title="새 창" class="report _click" data-contentsType="VOD" data-contentsNo="28039069" data-event="report">신고</a>
+    </div>
+</div>
+
+<div class="watch_btn">
+    
+    <div class="u_likeit_list_module">
+        <a href="javascript:;" class="u_likeit_list_btn u_type_brigh _button" id="likeButton" data-sid="TVCAST" data-did="TVCAST" data-cid="28039069" data-likeit="0"></a>
+        <div class="like_animation_area" id="likeLottie"></div>
+    </div>
+    
+    
+    
+    <a href="#comment_focus" class="btn_comment" onclick="clickcr(this, 'inf.reply', '', '')">
+        <span class="icon"><em class="blind">댓글</em></span>
+        <span class="count _commentCount"></span>
+    </a>
+    
+    
+    <a href="javascript:;" class="btn_put _click" data-event="setWatchLater" data-clipno="28039069" data-type="current" title="나중에 보기">
+        <span class="icon"></span>
+        <span class="txt">나중에 보기</span>
+    </a>
+    <div class="pop_toast _currentWatchLaterToast" style="display:none;">
+        <div class="toast_box">
+            <p>'나중에 보기'에 저장되었습니다.</p>
+        </div>
+    </div>
+    
+    
+    <a href="javascript:;" id="spiButton" class="btn btn_splugin naver-splugin _shareButton _click"
+       data-event="share"
+       data-style="type_a"
+       data-url="https://tv.naver.com/v/28039069"
+       data-title="쫄깃하고 맛있는 가지장아찌만들기  몸에좋은보라색~항암작용.명품장아찌"
+       title="퍼가기">퍼가기
+    </a>
+     
+</div>
+
+
+
+<div class="hash_box">
+    <ul class="list_hash">
+		
+		<li><a onclick="clickcr(this, 'inf.tag', '', ''); TagAZ.tagClickEncoded('%EA%B0%80%EC%A7%80%EC%9E%A5%EC%95%84%EC%B0%8C', 'clipEnd', '28039069'); location.href='/search/clip?query=%EA%B0%80%EC%A7%80%EC%9E%A5%EC%95%84%EC%B0%8C&isTag=true'" href="javascript:void(0);">#가지장아찌</a></li>
+		
+		<li><a onclick="clickcr(this, 'inf.tag', '', ''); TagAZ.tagClickEncoded('%EC%9E%A5%EC%95%84%EC%B0%8C', 'clipEnd', '28039069'); location.href='/search/clip?query=%EC%9E%A5%EC%95%84%EC%B0%8C&isTag=true'" href="javascript:void(0);">#장아찌</a></li>
+		
+		<li><a onclick="clickcr(this, 'inf.tag', '', ''); TagAZ.tagClickEncoded('%EB%B0%91%EB%B0%98%EC%B0%AC', 'clipEnd', '28039069'); location.href='/search/clip?query=%EB%B0%91%EB%B0%98%EC%B0%AC&isTag=true'" href="javascript:void(0);">#밑반찬</a></li>
+		
+		<li><a onclick="clickcr(this, 'inf.tag', '', ''); TagAZ.tagClickEncoded('%EB%B0%A5%EB%B0%98%EC%B0%AC', 'clipEnd', '28039069'); location.href='/search/clip?query=%EB%B0%A5%EB%B0%98%EC%B0%AC&isTag=true'" href="javascript:void(0);">#밥반찬</a></li>
+		
+		<li><a onclick="clickcr(this, 'inf.tag', '', ''); TagAZ.tagClickEncoded('%EC%9E%A5%EC%95%84%EC%B0%8C%EB%8B%B4%EA%B7%B8%EA%B8%B0', 'clipEnd', '28039069'); location.href='/search/clip?query=%EC%9E%A5%EC%95%84%EC%B0%8C%EB%8B%B4%EA%B7%B8%EA%B8%B0&isTag=true'" href="javascript:void(0);">#장아찌담그기</a></li>
+		 
+    </ul>
+</div>
+
+
+
+
+    <a href="javascript:;" class="btn_more _click _clipInfoButton" data-event="showClipInfo" title="">
+        <span class="blind"></span>
+    </a>
+
+
+
+<div class="watch_desc _clipInfo">
+    <div class="info_box _infoBox">
+        
+        
+        
+        <p class="desc">[재료]<br>가지 5개, 양파큰거 1개, 청양고추 4개<br><br>[간장양념장]<br>마늘 5개, 다시마 5조각, 물 400ml, 진간장 200ml<br>설탕 100ml, 식초 100ml</p>
+        
+
+        
+        
+        
+        
+        
+        
+
+        
+        
+        
+    </div>
+</div>
+
+
+	</div>
+	
+	
+	
+</div>
+            </div>
+            <!-- //플레이어 영역 -->
+
+            
+            
+
+
+
+
+
+<div id="clipEndPlaylist">
+	
+	<div id="channelInfo" class="video_aside"
+		>
+		<div class="video_ch">
+			
+			<div class="ch_tit">
+				<h2>
+					<em class="ic"></em>
+					<span class="_playlistTitle" title="함께 볼 만한 동영상 (10)">
+					
+						함께 볼 만한 동영상
+					
+					</span>
+				</h2>
+				
+			</div>
+			
+		</div>
+		
+		<div id="playlistArea" class="video_list">
+			
+
+
+
+
+
+
+
+
+<div class="list_area" id="rec_playlist_wrap">
+    <div class="list_scroll _playListScrollArea">
+    	<div class="list_tit">
+		    <strong class="cnt">
+		    	<em class="_playlistPaging">1 / 10</em>
+		    </strong>
+		    <div class="list_btn">
+		        <div class="btn_refresh" style="display: none;" >
+		            <a href="javascript:;" class="btn default _click _playbackOrderBtn" data-event="changePlaybackOrder" title="">
+		            	<em class="ic"></em>
+		            </a>
+		            <div class="tooltip _playbackOrderTooltip" style="display: none;">
+		                <i class="index repeat_playlist">연속재생 켜짐</i>
+		                <i class="index repeat_clip">1개 반복재생</i>
+		                <i class="index default">연속재생 꺼짐</i>
+		                <a href="javascript:;" class="btn_close _click" data-event="closeTooltip" title="닫기">닫기</a>
+		            </div>
+		        </div>
+		    </div>
+		</div>
+        <div id="playlistClipScrollBox" class="scrollbar _playlistScrollbox">
+			<ul id="playlistClip" class="item_list type1 ">
+				
+
+
+
+
+
+
+
+
+
+
+<li class="_rec_playlist  " data-clipno="26568182" data-stats-type="RCCSCF" data-airs-session="w0WIpSN0kF1GXRb2" data-airs-bypass='{"airs_session_id":"w0WIpSN0kF1GXRb2","bucket":"T14"}'>
+    
+    <div id="playlistInfo" data-title="함께 볼 만한 동영상" data-count="10" style="display: none;"></div>
+    
+
+    <div class="inner">
+        <strong class="lank">1</strong>
+			 <a class="_click thumb"
+				data-moveclipno="26568182"
+				data-playlistno="0"
+				data-categorycode="FOOD"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/26568182'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20220502_204/RRFsa_1651498017967WSmgv_GIF/88578ed3-ca1b-11ec-b2f1-a0369ff956e4.gif?type=mfullfill_120_68_ani_limit15"
+				 
+				title="이틀만에 완성되는 ﻿물없이 오이지담그는법 오이장아찌 만들기 참외장아찌 요리">
+            <img src="https://phinf.pstatic.net/tvcast/20220502_165/UX31x_1651497864882SpOrq_JPEG/1651497769103.JPG?type=f120_68_blend"
+				 data-src="https://phinf.pstatic.net/tvcast/20220502_165/UX31x_1651497864882SpOrq_JPEG/1651497769103.JPG?type=f120_68_blend"
+				 data-aflag="false" alt="이틀만에 완성되는 ﻿물없이 오이지담그는법 오이장아찌 만들기 참외장아찌 요리" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="임시 이미지">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">5:43</em>
+		 	<div class="_barProgressWrapper"
+				 data-clipno="26568182"
+				 data-playtime="343"
+				 data-isshowed="false">
+			</div>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="26568182"
+				   data-playlistno="0"
+				   data-categorycode="FOOD"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/26568182'
+			    
+        	
+					title="이틀만에 완성되는 ﻿물없이 오이지담그는법 오이장아찌 만들기 참외장아찌 요리">
+                    이틀만에 완성되는 ﻿물없이 오이지담그는법..
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>57,056</span>
+                <span class="like"><span class="blind">좋아요 수</span>259</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="_rec_playlist  " data-clipno="25651160" data-stats-type="RCCSCF" data-airs-session="w0WIpSN0kF1GXRb2" data-airs-bypass='{"airs_session_id":"w0WIpSN0kF1GXRb2","bucket":"T14"}'>
+    
+
+    <div class="inner">
+        <strong class="lank">2</strong>
+			 <a class="_click thumb"
+				data-moveclipno="25651160"
+				data-playlistno="0"
+				data-categorycode="FOOD"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/25651160'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20220315_9/IwwX5_16473177487326Nbmp_GIF/86f0daf9-a416-11ec-ada9-48df3795dcee.gif?type=mfullfill_120_68_ani_limit15"
+				 
+				title="맛 보면 놀라는 열무 장아찌 만드는법">
+            <img src="https://phinf.pstatic.net/tvcast/20220315_284/XTkxH_1647317746011GiqeM_JPEG/1647317659939.jpg?type=f120_68_blend"
+				 data-src="https://phinf.pstatic.net/tvcast/20220315_284/XTkxH_1647317746011GiqeM_JPEG/1647317659939.jpg?type=f120_68_blend"
+				 data-aflag="false" alt="맛 보면 놀라는 열무 장아찌 만드는법" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="임시 이미지">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">3:49</em>
+		 	<div class="_barProgressWrapper"
+				 data-clipno="25651160"
+				 data-playtime="229"
+				 data-isshowed="false">
+			</div>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="25651160"
+				   data-playlistno="0"
+				   data-categorycode="FOOD"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/25651160'
+			    
+        	
+					title="맛 보면 놀라는 열무 장아찌 만드는법">
+                    맛 보면 놀라는 열무 장아찌 만드는법
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>1,052</span>
+                <span class="like"><span class="blind">좋아요 수</span>7</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="_rec_playlist  " data-clipno="27053472" data-stats-type="RCCSCF" data-airs-session="w0WIpSN0kF1GXRb2" data-airs-bypass='{"airs_session_id":"w0WIpSN0kF1GXRb2","bucket":"T14"}'>
+    
+
+    <div class="inner">
+        <strong class="lank">3</strong>
+			 <a class="_click thumb"
+				data-moveclipno="27053472"
+				data-playlistno="0"
+				data-categorycode="LIFE"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/27053472'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20220530_164/lpOX3_1653861468222HTnQh_GIF/56ba7349-df9a-11ec-9c37-a0369ff969e4.gif?type=mfullfill_120_68_ani_limit15"
+				 
+				title="열무김치 만드는 법 아삭아삭 맛있는 열무물김치 담그는법">
+            <img src="https://phinf.pstatic.net/tvcast/20220530_124/JF9QU_1653861465568c9d0w_JPEG/3bf608b4-df9a-11ec-b77c-48df379cca40_01.jpg?type=f120_68_blend"
+				 data-src="https://phinf.pstatic.net/tvcast/20220530_124/JF9QU_1653861465568c9d0w_JPEG/3bf608b4-df9a-11ec-b77c-48df379cca40_01.jpg?type=f120_68_blend"
+				 data-aflag="false" alt="열무김치 만드는 법 아삭아삭 맛있는 열무물김치 담그는법" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="임시 이미지">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">2:35</em>
+		 	<div class="_barProgressWrapper"
+				 data-clipno="27053472"
+				 data-playtime="155"
+				 data-isshowed="false">
+			</div>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="27053472"
+				   data-playlistno="0"
+				   data-categorycode="LIFE"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/27053472'
+			    
+        	
+					title="열무김치 만드는 법 아삭아삭 맛있는 열무물김치 담그는법">
+                    열무김치 만드는 법 아삭아삭 맛있는 열무..
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>400</span>
+                <span class="like"><span class="blind">좋아요 수</span>1</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="_rec_playlist  " data-clipno="25871597" data-stats-type="RCCSCF" data-airs-session="w0WIpSN0kF1GXRb2" data-airs-bypass='{"airs_session_id":"w0WIpSN0kF1GXRb2","bucket":"T14"}'>
+    
+
+    <div class="inner">
+        <strong class="lank">4</strong>
+			 <a class="_click thumb"
+				data-moveclipno="25871597"
+				data-playlistno="0"
+				data-categorycode="FOOD"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/25871597'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20220326_236/7spZg_1648292974442wF9jg_GIF/39a7d2b6-acf4-11ec-87ec-b496915e8884.gif?type=mfullfill_120_68_ani_limit15"
+				 
+				title="나혼자 알기 아까워 소개합니다!! 초간단 ﻿양파장아찌만들기 양파요리 일주일 밑반찬">
+            <img src="https://phinf.pstatic.net/tvcast/20220326_38/0KNgC_1648292971112Qzmcj_JPEG/1648292960777.JPG?type=f120_68_blend"
+				 data-src="https://phinf.pstatic.net/tvcast/20220326_38/0KNgC_1648292971112Qzmcj_JPEG/1648292960777.JPG?type=f120_68_blend"
+				 data-aflag="false" alt="나혼자 알기 아까워 소개합니다!! 초간단 ﻿양파장아찌만들기 양파요리 일주일 밑반찬" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="임시 이미지">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">2:50</em>
+		 	<div class="_barProgressWrapper"
+				 data-clipno="25871597"
+				 data-playtime="170"
+				 data-isshowed="false">
+			</div>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="25871597"
+				   data-playlistno="0"
+				   data-categorycode="FOOD"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/25871597'
+			    
+        	
+					title="나혼자 알기 아까워 소개합니다!! 초간단 ﻿양파장아찌만들기 양파요리 일주일 밑반찬">
+                    나혼자 알기 아까워 소개합니다!! 초간단 ﻿..
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>18,677</span>
+                <span class="like"><span class="blind">좋아요 수</span>84</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="_rec_playlist  " data-clipno="27036715" data-stats-type="RCCSCF" data-airs-session="w0WIpSN0kF1GXRb2" data-airs-bypass='{"airs_session_id":"w0WIpSN0kF1GXRb2","bucket":"T14"}'>
+    
+
+    <div class="inner">
+        <strong class="lank">5</strong>
+			 <a class="_click thumb"
+				data-moveclipno="27036715"
+				data-playlistno="0"
+				data-categorycode="FOOD"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/27036715'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20220528_287/M5lWL_1653743125626CyRTf_GIF/d541b668-de86-11ec-bc99-a0369ff956e4.gif?type=mfullfill_120_68_ani_limit15"
+				 
+				title="햇마늘 보이면 꼭 사와 담가보세요! ﻿마늘장아찌 통마늘장아찌 담그는법  통마늘 요리">
+            <img src="https://phinf.pstatic.net/tvcast/20220528_260/Aq4E9_1653743062651YKgte_JPEG/1653742884901.JPG?type=f120_68_blend"
+				 data-src="https://phinf.pstatic.net/tvcast/20220528_260/Aq4E9_1653743062651YKgte_JPEG/1653742884901.JPG?type=f120_68_blend"
+				 data-aflag="false" alt="햇마늘 보이면 꼭 사와 담가보세요! ﻿마늘장아찌 통마늘장아찌 담그는법  통마늘 요리" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="임시 이미지">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">6:18</em>
+		 	<div class="_barProgressWrapper"
+				 data-clipno="27036715"
+				 data-playtime="378"
+				 data-isshowed="false">
+			</div>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="27036715"
+				   data-playlistno="0"
+				   data-categorycode="FOOD"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/27036715'
+			    
+        	
+					title="햇마늘 보이면 꼭 사와 담가보세요! ﻿마늘장아찌 통마늘장아찌 담그는법  통마늘 요리">
+                    햇마늘 보이면 꼭 사와 담가보세요! ﻿마늘..
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>4,602</span>
+                <span class="like"><span class="blind">좋아요 수</span>23</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="_rec_playlist  " data-clipno="26292478" data-stats-type="RCCSCF" data-airs-session="w0WIpSN0kF1GXRb2" data-airs-bypass='{"airs_session_id":"w0WIpSN0kF1GXRb2","bucket":"T14"}'>
+    
+
+    <div class="inner">
+        <strong class="lank">6</strong>
+			 <a class="_click thumb"
+				data-moveclipno="26292478"
+				data-playlistno="0"
+				data-categorycode="FOOD"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/26292478'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20220418_12/nQKZI_1650254528211GcxXP_GIF/c8bab30c-becb-11ec-8e5f-48df3796dd16.gif?type=mfullfill_120_68_ani_limit15"
+				 
+				title="양파장아찌 만들기 양파요리 장아찌간장 이거지 제철반찬">
+            <img src="https://phinf.pstatic.net/tvcast/20220418_201/WgOoB_1650254524832rbU1n_JPEG/1650254353805.jpg?type=f120_68_blend"
+				 data-src="https://phinf.pstatic.net/tvcast/20220418_201/WgOoB_1650254524832rbU1n_JPEG/1650254353805.jpg?type=f120_68_blend"
+				 data-aflag="false" alt="양파장아찌 만들기 양파요리 장아찌간장 이거지 제철반찬" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="임시 이미지">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">2:21</em>
+		 	<div class="_barProgressWrapper"
+				 data-clipno="26292478"
+				 data-playtime="141"
+				 data-isshowed="false">
+			</div>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="26292478"
+				   data-playlistno="0"
+				   data-categorycode="FOOD"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/26292478'
+			    
+        	
+					title="양파장아찌 만들기 양파요리 장아찌간장 이거지 제철반찬">
+                    양파장아찌 만들기 양파요리 장아찌간장 이..
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>1,577</span>
+                <span class="like"><span class="blind">좋아요 수</span>3</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="_rec_playlist  " data-clipno="21917071" data-stats-type="RCCSCF" data-airs-session="w0WIpSN0kF1GXRb2" data-airs-bypass='{"airs_session_id":"w0WIpSN0kF1GXRb2","bucket":"T14"}'>
+    
+
+    <div class="inner">
+        <strong class="lank">7</strong>
+			 <a class="_click thumb"
+				data-moveclipno="21917071"
+				data-playlistno="0"
+				data-categorycode="LIFE"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/21917071'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20210817_183/Iq1np_1629196932790Q4GSJ_GIF/c6685805-ff47-11eb-858f-a0369ff954bc.gif?type=mfullfill_120_68_ani_limit15"
+				 
+				title="여름무 맛있게 먹는 법ㅣ무채장아찌에 깻잎을 넣었더니 깜짝 놀랐어요ㅣ하루 만에 담가 먹는 무장아찌ㅣ쉽게 담그는 장아찌">
+            <img src="https://phinf.pstatic.net/tvcast/20210817_75/Ht1RA_1629196896027vKFWG_JPEG/1629196893431.jpg?type=f120_68_blend"
+				 data-src="https://phinf.pstatic.net/tvcast/20210817_75/Ht1RA_1629196896027vKFWG_JPEG/1629196893431.jpg?type=f120_68_blend"
+				 data-aflag="false" alt="여름무 맛있게 먹는 법ㅣ무채장아찌에 깻잎을 넣었더니 깜짝 놀랐어요ㅣ하루 만에 담가 먹는 무장아찌ㅣ쉽게 담그는 장아찌" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="임시 이미지">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">4:23</em>
+		 	<div class="_barProgressWrapper"
+				 data-clipno="21917071"
+				 data-playtime="263"
+				 data-isshowed="false">
+			</div>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="21917071"
+				   data-playlistno="0"
+				   data-categorycode="LIFE"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/21917071'
+			    
+        	
+					title="여름무 맛있게 먹는 법ㅣ무채장아찌에 깻잎을 넣었더니 깜짝 놀랐어요ㅣ하루 만에 담가 먹는 무장아찌ㅣ쉽게 담그는 장아찌">
+                    여름무 맛있게 먹는 법ㅣ무채장아찌에 깻잎..
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>10,031</span>
+                <span class="like"><span class="blind">좋아요 수</span>46</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="_rec_playlist  " data-clipno="26785421" data-stats-type="RCCSCF" data-airs-session="w0WIpSN0kF1GXRb2" data-airs-bypass='{"airs_session_id":"w0WIpSN0kF1GXRb2","bucket":"T14"}'>
+    
+
+    <div class="inner">
+        <strong class="lank">8</strong>
+			 <a class="_click thumb"
+				data-moveclipno="26785421"
+				data-playlistno="0"
+				data-categorycode="LIFE"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/26785421'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20220515_17/3hiAt_1652601910596aezGB_GIF/87b1d60f-d425-11ec-b2f1-a0369ff956e4.gif?type=mfullfill_120_68_ani_limit15"
+				 
+				title="오이지담그는법 오이지담그기 간장오이지 오이피클">
+            <img src="https://phinf.pstatic.net/tvcast/20220515_223/suXM7_1652601907312ftekG_JPEG/1652601898887.jpg?type=f120_68_blend"
+				 data-src="https://phinf.pstatic.net/tvcast/20220515_223/suXM7_1652601907312ftekG_JPEG/1652601898887.jpg?type=f120_68_blend"
+				 data-aflag="false" alt="오이지담그는법 오이지담그기 간장오이지 오이피클" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="임시 이미지">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">3:23</em>
+		 	<div class="_barProgressWrapper"
+				 data-clipno="26785421"
+				 data-playtime="203"
+				 data-isshowed="false">
+			</div>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="26785421"
+				   data-playlistno="0"
+				   data-categorycode="LIFE"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/26785421'
+			    
+        	
+					title="오이지담그는법 오이지담그기 간장오이지 오이피클">
+                    오이지담그는법 오이지담그기 간장오이지 ..
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>3,828</span>
+                <span class="like"><span class="blind">좋아요 수</span>4</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="_rec_playlist  " data-clipno="27163377" data-stats-type="RCCSCF" data-airs-session="w0WIpSN0kF1GXRb2" data-airs-bypass='{"airs_session_id":"w0WIpSN0kF1GXRb2","bucket":"T14"}'>
+    
+
+    <div class="inner">
+        <strong class="lank">9</strong>
+			 <a class="_click thumb"
+				data-moveclipno="27163377"
+				data-playlistno="0"
+				data-categorycode="FOOD"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/27163377'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20220604_138/HxFBg_1654343477756xPBs8_GIF/948a2d99-e3fc-11ec-923a-b496915e8a08.gif?type=mfullfill_120_68_ani_limit15"
+				 
+				title="마늘장아찌 가장 쉽게 담그는법. 양념 딱 한가지만 준비하세요. 마늘요리 마늘된장장아찌">
+            <img src="https://phinf.pstatic.net/tvcast/20220604_19/n5n3a_1654343473687GtX3A_JPEG/1654343347458.jpg?type=f120_68_blend"
+				 data-src="https://phinf.pstatic.net/tvcast/20220604_19/n5n3a_1654343473687GtX3A_JPEG/1654343347458.jpg?type=f120_68_blend"
+				 data-aflag="false" alt="마늘장아찌 가장 쉽게 담그는법. 양념 딱 한가지만 준비하세요. 마늘요리 마늘된장장아찌" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="임시 이미지">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">2:34</em>
+		 	<div class="_barProgressWrapper"
+				 data-clipno="27163377"
+				 data-playtime="154"
+				 data-isshowed="false">
+			</div>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="27163377"
+				   data-playlistno="0"
+				   data-categorycode="FOOD"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/27163377'
+			    
+        	
+					title="마늘장아찌 가장 쉽게 담그는법. 양념 딱 한가지만 준비하세요. 마늘요리 마늘된장장아찌">
+                    마늘장아찌 가장 쉽게 담그는법. 양념 딱 ..
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>342</span>
+                <span class="like"><span class="blind">좋아요 수</span>1</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="_rec_playlist  " data-clipno="21947001" data-stats-type="RCCSCF" data-airs-session="w0WIpSN0kF1GXRb2" data-airs-bypass='{"airs_session_id":"w0WIpSN0kF1GXRb2","bucket":"T14"}'>
+    
+
+    <div class="inner">
+        <strong class="lank">10</strong>
+			 <a class="_click thumb"
+				data-moveclipno="21947001"
+				data-playlistno="0"
+				data-categorycode="FOOD"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/21947001'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20210819_197/pA2Qi_1629342466290hTTUq_GIF/66d98e10-009a-11ec-b0bd-b496915e8884.gif?type=mfullfill_120_68_ani_limit15"
+				 
+				title="해놓으면 야무지게 먹는 간장 고추장아찌 : 쉬워요 쉬워~">
+            <img src="https://phinf.pstatic.net/tvcast/20210819_159/yKhCn_1629342463565h2Qh4_JPEG/1629342335119.jpg?type=f120_68_blend"
+				 data-src="https://phinf.pstatic.net/tvcast/20210819_159/yKhCn_1629342463565h2Qh4_JPEG/1629342335119.jpg?type=f120_68_blend"
+				 data-aflag="false" alt="해놓으면 야무지게 먹는 간장 고추장아찌 : 쉬워요 쉬워~" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="임시 이미지">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">1:20</em>
+		 	<div class="_barProgressWrapper"
+				 data-clipno="21947001"
+				 data-playtime="80"
+				 data-isshowed="false">
+			</div>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="21947001"
+				   data-playlistno="0"
+				   data-categorycode="FOOD"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/21947001'
+			    
+        	
+					title="해놓으면 야무지게 먹는 간장 고추장아찌 : 쉬워요 쉬워~">
+                    해놓으면 야무지게 먹는 간장 고추장아찌 :..
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>118</span>
+                <span class="like"><span class="blind">좋아요 수</span>18</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+			</ul>
+			
+        </div>
+    </div>
+
+    
+	<div class="list_drop _playlistGroupArea" style="display:none;">
+		<div class="list_tit">
+			<strong class="cnt">재생목록 <em></em></strong>
+			<div class="list_sort" id="playlistGroupSort">
+		    <!-- [D]정렬 선택시 class="btn_sort on" -->
+				<a href="#" class="btn_sort" data-type="btn">최신순<em class="ic"></em></a>
+				<div class="layer" style="display:none">
+					<ul>
+						<li class="on"><a href="#" data-type="latest">최신순</a></li>
+						<li><a href="#" data-type="date">등록일순</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="drop_box">
+			
+		</div>
+	</div>
+</div>
+
+
+		</div>
+		
+	</div>
+	
+
+	
+	<div id="expandChannelInfo" class="video_high"
+		style="display: none;" >
+		
+
+
+
+
+
+
+
+
+<div class="high_wrap">
+    <div class="video_tit">
+        <div class="tit_area">
+            <h4>
+            	<em class="ic"></em>
+            	
+					
+					
+					함께 볼 만한 동영상
+					
+				
+                <em class="cnt _expandPlaylistPaging">1 / 10</em>
+            </h4>
+
+            <div class="btn_refresh" style="display: none;" >
+                <a href="javascript:;" class="btn refresh _click _playbackOrderBtn" data-event="changePlaybackOrder" title="연속재생">연속재생</a>
+                <div class="tooltip _playbackOrderTooltip" style="display: none;">
+                    <i class="index repeat_playlist">연속재생 켜짐</i>
+                    <i class="index repeat_clip">1개 반복재생</i>
+                    <i class="index default">연속재생 꺼짐</i>
+                    <a href="javascript:;" class="btn_close _click" data-event="closeTooltip" title="닫기">닫기</a>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="video_ch">
+            <!-- 채널 타이틀 -->
+            <div class="ch_tit">
+                <a href="https://tv.naver.com/kyscook" class="ic_ch">
+                    <img
+                            
+                            
+                            
+                            src="https://phinf.pstatic.net/tvcast/20161227_13/photoinfra_1482831946369BANUd_PNG/default_round_ch.png?type=round_31_31"
+                            
+                            
+                            data-src="https://phinf.pstatic.net/tvcast/20190520_212/6ryZj_1558361645681SJNcK_PNG/1558361645663.png?type=round_31_31"
+                            onerror='this.src="https://phinf.pstatic.net/tvcast/20161227_13/photoinfra_1482831946369BANUd_PNG/default_round_ch.png?type=round_31_31"'
+                            alt="빵숙cook"
+                            width="46" height="46">
+                    <span class="mask"></span>
+                </a>
+                <h2>
+                    <a href="https://tv.naver.com/kyscook">빵숙cook</a>
+                </h2>
+            </div>
+            <!-- //채널 타이틀 -->
+
+            <div class="ch_sp">
+	            <!-- 소셜링크 -->
+	            <a href="javascript:;" class="_subscribe btn_subscribe" data-channel-id="kyscook" data-subs-only="false" data-subscription-count="-1" data-area-code="chi" style="display:none">
+					<span class="txt"><em class="ic"></em>구독</span>
+				</a>
+	            <!-- //소셜링크 -->
+		        
+            </div>
+        </div>
+        
+    </div>
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+<div class="high_rolling">
+
+  
+  <a href="javascript:;" class="btn_roll left _click" data-event="moveLeft" title="이전 목록">이전 목록</a>
+  
+
+  <div id="rollingPlaylist" class="high_container">
+    <ul class="item_list type2 _rollingPlaylistClipUnorderedList" style="width:70000px">
+
+      
+      
+
+      
+        
+          
+        
+      
+
+      
+
+      
+        
+          
+            
+            
+          
+          
+            
+            
+          
+        
+        
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class="_rec_rolling_playlist  "
+    data-airs-session="w0WIpSN0kF1GXRb2"
+    data-airs-bypass='{"airs_session_id":"w0WIpSN0kF1GXRb2","bucket":"T14"}'
+    data-clipno="26568182"
+>
+
+    <div class="box">
+        <a class="_click" data-event="moveAnotherClipByUser"
+                data-moveclipno="26568182"
+                data-playlistno="0"
+                data-categorycode="FOOD"
+                data-issmr="false"
+        
+        
+        
+        
+                href='https://tv.naver.com/v/26568182' queryString="query=&plClips="
+        
+        
+                
+                    data-anisrc="https://phinf.pstatic.net/tvcast/20220502_204/RRFsa_1651498017967WSmgv_GIF/88578ed3-ca1b-11ec-b2f1-a0369ff956e4.gif?type=mfullfill_236_133_ani_limit15"
+                
+                title="이틀만에 완성되는 ﻿물없이 오이지담그는법 오이장아찌 만들기 참외장아찌 요리">
+
+                    <span class="thumb">
+                        
+                        
+                          
+                          
+                            <img
+                                    src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                    data-src="https://phinf.pstatic.net/tvcast/20220502_165/UX31x_1651497864882SpOrq_JPEG/1651497769103.JPG?type=f236_133_blend"
+                                    data-aflag="false"
+                                    alt="이틀만에 완성되는 ﻿물없이 오이지담그는법 오이장아찌 만들기 참외장아찌 요리"
+                                    width="236" height="133">
+                          
+                        
+                        <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="임시 이미지">
+                        <span class="mask"></span>
+                        <em class="time">5:43</em>
+                        <div class="_barProgressWrapper"
+                             data-clipno="26568182"
+                             data-playtime="343"
+                             data-isshowed="false">
+                        </div>
+                    </span>
+        </a>
+        <a href="#" role="button" class="btn_my _click" data-event="setWatchLater" data-clipno="26568182" data-type="" aria-selected="false"><span class="blind">나중에 보기 <span class="_selectedText">선택 해제</span></span></a>
+    </div>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/26568182" title="이틀만에 완성되는 ﻿물없이 오이지담그는법 오이장아찌 만들기 참외장아찌 요리">
+          이틀만에 완성되는 ﻿물없이 오이지담그는법 오이장아..
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>57,056</span>
+                <span class="like"><span class="blind">좋아요 수</span>259</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class="_rec_rolling_playlist  "
+    data-airs-session="w0WIpSN0kF1GXRb2"
+    data-airs-bypass='{"airs_session_id":"w0WIpSN0kF1GXRb2","bucket":"T14"}'
+    data-clipno="25651160"
+>
+
+    <div class="box">
+        <a class="_click" data-event="moveAnotherClipByUser"
+                data-moveclipno="25651160"
+                data-playlistno="0"
+                data-categorycode="FOOD"
+                data-issmr="false"
+        
+        
+        
+        
+                href='https://tv.naver.com/v/25651160' queryString="query=&plClips="
+        
+        
+                
+                    data-anisrc="https://phinf.pstatic.net/tvcast/20220315_9/IwwX5_16473177487326Nbmp_GIF/86f0daf9-a416-11ec-ada9-48df3795dcee.gif?type=mfullfill_236_133_ani_limit15"
+                
+                title="맛 보면 놀라는 열무 장아찌 만드는법">
+
+                    <span class="thumb">
+                        
+                        
+                          
+                          
+                            <img
+                                    src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                    data-src="https://phinf.pstatic.net/tvcast/20220315_284/XTkxH_1647317746011GiqeM_JPEG/1647317659939.jpg?type=f236_133_blend"
+                                    data-aflag="false"
+                                    alt="맛 보면 놀라는 열무 장아찌 만드는법"
+                                    width="236" height="133">
+                          
+                        
+                        <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="임시 이미지">
+                        <span class="mask"></span>
+                        <em class="time">3:49</em>
+                        <div class="_barProgressWrapper"
+                             data-clipno="25651160"
+                             data-playtime="229"
+                             data-isshowed="false">
+                        </div>
+                    </span>
+        </a>
+        <a href="#" role="button" class="btn_my _click" data-event="setWatchLater" data-clipno="25651160" data-type="" aria-selected="false"><span class="blind">나중에 보기 <span class="_selectedText">선택 해제</span></span></a>
+    </div>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/25651160" title="맛 보면 놀라는 열무 장아찌 만드는법">
+          맛 보면 놀라는 열무 장아찌 만드는법
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>1,052</span>
+                <span class="like"><span class="blind">좋아요 수</span>7</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class="_rec_rolling_playlist  "
+    data-airs-session="w0WIpSN0kF1GXRb2"
+    data-airs-bypass='{"airs_session_id":"w0WIpSN0kF1GXRb2","bucket":"T14"}'
+    data-clipno="27053472"
+>
+
+    <div class="box">
+        <a class="_click" data-event="moveAnotherClipByUser"
+                data-moveclipno="27053472"
+                data-playlistno="0"
+                data-categorycode="LIFE"
+                data-issmr="false"
+        
+        
+        
+        
+                href='https://tv.naver.com/v/27053472' queryString="query=&plClips="
+        
+        
+                
+                    data-anisrc="https://phinf.pstatic.net/tvcast/20220530_164/lpOX3_1653861468222HTnQh_GIF/56ba7349-df9a-11ec-9c37-a0369ff969e4.gif?type=mfullfill_236_133_ani_limit15"
+                
+                title="열무김치 만드는 법 아삭아삭 맛있는 열무물김치 담그는법">
+
+                    <span class="thumb">
+                        
+                        
+                          
+                          
+                            <img
+                                    src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                    data-src="https://phinf.pstatic.net/tvcast/20220530_124/JF9QU_1653861465568c9d0w_JPEG/3bf608b4-df9a-11ec-b77c-48df379cca40_01.jpg?type=f236_133_blend"
+                                    data-aflag="false"
+                                    alt="열무김치 만드는 법 아삭아삭 맛있는 열무물김치 담그는법"
+                                    width="236" height="133">
+                          
+                        
+                        <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="임시 이미지">
+                        <span class="mask"></span>
+                        <em class="time">2:35</em>
+                        <div class="_barProgressWrapper"
+                             data-clipno="27053472"
+                             data-playtime="155"
+                             data-isshowed="false">
+                        </div>
+                    </span>
+        </a>
+        <a href="#" role="button" class="btn_my _click" data-event="setWatchLater" data-clipno="27053472" data-type="" aria-selected="false"><span class="blind">나중에 보기 <span class="_selectedText">선택 해제</span></span></a>
+    </div>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/27053472" title="열무김치 만드는 법 아삭아삭 맛있는 열무물김치 담그는법">
+          열무김치 만드는 법 아삭아삭 맛있는 열무물김치 담그..
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>400</span>
+                <span class="like"><span class="blind">좋아요 수</span>1</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class="_rec_rolling_playlist  "
+    data-airs-session="w0WIpSN0kF1GXRb2"
+    data-airs-bypass='{"airs_session_id":"w0WIpSN0kF1GXRb2","bucket":"T14"}'
+    data-clipno="25871597"
+>
+
+    <div class="box">
+        <a class="_click" data-event="moveAnotherClipByUser"
+                data-moveclipno="25871597"
+                data-playlistno="0"
+                data-categorycode="FOOD"
+                data-issmr="false"
+        
+        
+        
+        
+                href='https://tv.naver.com/v/25871597' queryString="query=&plClips="
+        
+        
+                
+                    data-anisrc="https://phinf.pstatic.net/tvcast/20220326_236/7spZg_1648292974442wF9jg_GIF/39a7d2b6-acf4-11ec-87ec-b496915e8884.gif?type=mfullfill_236_133_ani_limit15"
+                
+                title="나혼자 알기 아까워 소개합니다!! 초간단 ﻿양파장아찌만들기 양파요리 일주일 밑반찬">
+
+                    <span class="thumb">
+                        
+                        
+                          
+                          
+                            <img
+                                    src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                    data-src="https://phinf.pstatic.net/tvcast/20220326_38/0KNgC_1648292971112Qzmcj_JPEG/1648292960777.JPG?type=f236_133_blend"
+                                    data-aflag="false"
+                                    alt="나혼자 알기 아까워 소개합니다!! 초간단 ﻿양파장아찌만들기 양파요리 일주일 밑반찬"
+                                    width="236" height="133">
+                          
+                        
+                        <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="임시 이미지">
+                        <span class="mask"></span>
+                        <em class="time">2:50</em>
+                        <div class="_barProgressWrapper"
+                             data-clipno="25871597"
+                             data-playtime="170"
+                             data-isshowed="false">
+                        </div>
+                    </span>
+        </a>
+        <a href="#" role="button" class="btn_my _click" data-event="setWatchLater" data-clipno="25871597" data-type="" aria-selected="false"><span class="blind">나중에 보기 <span class="_selectedText">선택 해제</span></span></a>
+    </div>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/25871597" title="나혼자 알기 아까워 소개합니다!! 초간단 ﻿양파장아찌만들기 양파요리 일주일 밑반찬">
+          나혼자 알기 아까워 소개합니다!! 초간단 ﻿양파장아찌..
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>18,677</span>
+                <span class="like"><span class="blind">좋아요 수</span>84</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class="_rec_rolling_playlist  "
+    data-airs-session="w0WIpSN0kF1GXRb2"
+    data-airs-bypass='{"airs_session_id":"w0WIpSN0kF1GXRb2","bucket":"T14"}'
+    data-clipno="27036715"
+>
+
+    <div class="box">
+        <a class="_click" data-event="moveAnotherClipByUser"
+                data-moveclipno="27036715"
+                data-playlistno="0"
+                data-categorycode="FOOD"
+                data-issmr="false"
+        
+        
+        
+        
+                href='https://tv.naver.com/v/27036715' queryString="query=&plClips="
+        
+        
+                
+                    data-anisrc="https://phinf.pstatic.net/tvcast/20220528_287/M5lWL_1653743125626CyRTf_GIF/d541b668-de86-11ec-bc99-a0369ff956e4.gif?type=mfullfill_236_133_ani_limit15"
+                
+                title="햇마늘 보이면 꼭 사와 담가보세요! ﻿마늘장아찌 통마늘장아찌 담그는법  통마늘 요리">
+
+                    <span class="thumb">
+                        
+                        
+                          
+                          
+                            <img
+                                    src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                    data-src="https://phinf.pstatic.net/tvcast/20220528_260/Aq4E9_1653743062651YKgte_JPEG/1653742884901.JPG?type=f236_133_blend"
+                                    data-aflag="false"
+                                    alt="햇마늘 보이면 꼭 사와 담가보세요! ﻿마늘장아찌 통마늘장아찌 담그는법  통마늘 요리"
+                                    width="236" height="133">
+                          
+                        
+                        <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="임시 이미지">
+                        <span class="mask"></span>
+                        <em class="time">6:18</em>
+                        <div class="_barProgressWrapper"
+                             data-clipno="27036715"
+                             data-playtime="378"
+                             data-isshowed="false">
+                        </div>
+                    </span>
+        </a>
+        <a href="#" role="button" class="btn_my _click" data-event="setWatchLater" data-clipno="27036715" data-type="" aria-selected="false"><span class="blind">나중에 보기 <span class="_selectedText">선택 해제</span></span></a>
+    </div>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/27036715" title="햇마늘 보이면 꼭 사와 담가보세요! ﻿마늘장아찌 통마늘장아찌 담그는법  통마늘 요리">
+          햇마늘 보이면 꼭 사와 담가보세요! ﻿마늘장아찌 통마..
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>4,602</span>
+                <span class="like"><span class="blind">좋아요 수</span>23</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class="_rec_rolling_playlist  "
+    data-airs-session="w0WIpSN0kF1GXRb2"
+    data-airs-bypass='{"airs_session_id":"w0WIpSN0kF1GXRb2","bucket":"T14"}'
+    data-clipno="26292478"
+>
+
+    <div class="box">
+        <a class="_click" data-event="moveAnotherClipByUser"
+                data-moveclipno="26292478"
+                data-playlistno="0"
+                data-categorycode="FOOD"
+                data-issmr="false"
+        
+        
+        
+        
+                href='https://tv.naver.com/v/26292478' queryString="query=&plClips="
+        
+        
+                
+                    data-anisrc="https://phinf.pstatic.net/tvcast/20220418_12/nQKZI_1650254528211GcxXP_GIF/c8bab30c-becb-11ec-8e5f-48df3796dd16.gif?type=mfullfill_236_133_ani_limit15"
+                
+                title="양파장아찌 만들기 양파요리 장아찌간장 이거지 제철반찬">
+
+                    <span class="thumb">
+                        
+                        
+                          
+                          
+                            <img
+                                    src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                    data-src="https://phinf.pstatic.net/tvcast/20220418_201/WgOoB_1650254524832rbU1n_JPEG/1650254353805.jpg?type=f236_133_blend"
+                                    data-aflag="false"
+                                    alt="양파장아찌 만들기 양파요리 장아찌간장 이거지 제철반찬"
+                                    width="236" height="133">
+                          
+                        
+                        <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="임시 이미지">
+                        <span class="mask"></span>
+                        <em class="time">2:21</em>
+                        <div class="_barProgressWrapper"
+                             data-clipno="26292478"
+                             data-playtime="141"
+                             data-isshowed="false">
+                        </div>
+                    </span>
+        </a>
+        <a href="#" role="button" class="btn_my _click" data-event="setWatchLater" data-clipno="26292478" data-type="" aria-selected="false"><span class="blind">나중에 보기 <span class="_selectedText">선택 해제</span></span></a>
+    </div>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/26292478" title="양파장아찌 만들기 양파요리 장아찌간장 이거지 제철반찬">
+          양파장아찌 만들기 양파요리 장아찌간장 이거지 제철..
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>1,577</span>
+                <span class="like"><span class="blind">좋아요 수</span>3</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class="_rec_rolling_playlist  "
+    data-airs-session="w0WIpSN0kF1GXRb2"
+    data-airs-bypass='{"airs_session_id":"w0WIpSN0kF1GXRb2","bucket":"T14"}'
+    data-clipno="21917071"
+>
+
+    <div class="box">
+        <a class="_click" data-event="moveAnotherClipByUser"
+                data-moveclipno="21917071"
+                data-playlistno="0"
+                data-categorycode="LIFE"
+                data-issmr="false"
+        
+        
+        
+        
+                href='https://tv.naver.com/v/21917071' queryString="query=&plClips="
+        
+        
+                
+                    data-anisrc="https://phinf.pstatic.net/tvcast/20210817_183/Iq1np_1629196932790Q4GSJ_GIF/c6685805-ff47-11eb-858f-a0369ff954bc.gif?type=mfullfill_236_133_ani_limit15"
+                
+                title="여름무 맛있게 먹는 법ㅣ무채장아찌에 깻잎을 넣었더니 깜짝 놀랐어요ㅣ하루 만에 담가 먹는 무장아찌ㅣ쉽게 담그는 장아찌">
+
+                    <span class="thumb">
+                        
+                        
+                          
+                          
+                            <img
+                                    src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                    data-src="https://phinf.pstatic.net/tvcast/20210817_75/Ht1RA_1629196896027vKFWG_JPEG/1629196893431.jpg?type=f236_133_blend"
+                                    data-aflag="false"
+                                    alt="여름무 맛있게 먹는 법ㅣ무채장아찌에 깻잎을 넣었더니 깜짝 놀랐어요ㅣ하루 만에 담가 먹는 무장아찌ㅣ쉽게 담그는 장아찌"
+                                    width="236" height="133">
+                          
+                        
+                        <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="임시 이미지">
+                        <span class="mask"></span>
+                        <em class="time">4:23</em>
+                        <div class="_barProgressWrapper"
+                             data-clipno="21917071"
+                             data-playtime="263"
+                             data-isshowed="false">
+                        </div>
+                    </span>
+        </a>
+        <a href="#" role="button" class="btn_my _click" data-event="setWatchLater" data-clipno="21917071" data-type="" aria-selected="false"><span class="blind">나중에 보기 <span class="_selectedText">선택 해제</span></span></a>
+    </div>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/21917071" title="여름무 맛있게 먹는 법ㅣ무채장아찌에 깻잎을 넣었더니 깜짝 놀랐어요ㅣ하루 만에 담가 먹는 무장아찌ㅣ쉽게 담그는 장아찌">
+          여름무 맛있게 먹는 법ㅣ무채장아찌에 깻잎을 넣었더..
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>10,031</span>
+                <span class="like"><span class="blind">좋아요 수</span>46</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class="_rec_rolling_playlist  "
+    data-airs-session="w0WIpSN0kF1GXRb2"
+    data-airs-bypass='{"airs_session_id":"w0WIpSN0kF1GXRb2","bucket":"T14"}'
+    data-clipno="26785421"
+>
+
+    <div class="box">
+        <a class="_click" data-event="moveAnotherClipByUser"
+                data-moveclipno="26785421"
+                data-playlistno="0"
+                data-categorycode="LIFE"
+                data-issmr="false"
+        
+        
+        
+        
+                href='https://tv.naver.com/v/26785421' queryString="query=&plClips="
+        
+        
+                
+                    data-anisrc="https://phinf.pstatic.net/tvcast/20220515_17/3hiAt_1652601910596aezGB_GIF/87b1d60f-d425-11ec-b2f1-a0369ff956e4.gif?type=mfullfill_236_133_ani_limit15"
+                
+                title="오이지담그는법 오이지담그기 간장오이지 오이피클">
+
+                    <span class="thumb">
+                        
+                        
+                          
+                          
+                            <img
+                                    src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                    data-src="https://phinf.pstatic.net/tvcast/20220515_223/suXM7_1652601907312ftekG_JPEG/1652601898887.jpg?type=f236_133_blend"
+                                    data-aflag="false"
+                                    alt="오이지담그는법 오이지담그기 간장오이지 오이피클"
+                                    width="236" height="133">
+                          
+                        
+                        <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="임시 이미지">
+                        <span class="mask"></span>
+                        <em class="time">3:23</em>
+                        <div class="_barProgressWrapper"
+                             data-clipno="26785421"
+                             data-playtime="203"
+                             data-isshowed="false">
+                        </div>
+                    </span>
+        </a>
+        <a href="#" role="button" class="btn_my _click" data-event="setWatchLater" data-clipno="26785421" data-type="" aria-selected="false"><span class="blind">나중에 보기 <span class="_selectedText">선택 해제</span></span></a>
+    </div>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/26785421" title="오이지담그는법 오이지담그기 간장오이지 오이피클">
+          오이지담그는법 오이지담그기 간장오이지 오이피클
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>3,828</span>
+                <span class="like"><span class="blind">좋아요 수</span>4</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class="_rec_rolling_playlist  "
+    data-airs-session="w0WIpSN0kF1GXRb2"
+    data-airs-bypass='{"airs_session_id":"w0WIpSN0kF1GXRb2","bucket":"T14"}'
+    data-clipno="27163377"
+>
+
+    <div class="box">
+        <a class="_click" data-event="moveAnotherClipByUser"
+                data-moveclipno="27163377"
+                data-playlistno="0"
+                data-categorycode="FOOD"
+                data-issmr="false"
+        
+        
+        
+        
+                href='https://tv.naver.com/v/27163377' queryString="query=&plClips="
+        
+        
+                
+                    data-anisrc="https://phinf.pstatic.net/tvcast/20220604_138/HxFBg_1654343477756xPBs8_GIF/948a2d99-e3fc-11ec-923a-b496915e8a08.gif?type=mfullfill_236_133_ani_limit15"
+                
+                title="마늘장아찌 가장 쉽게 담그는법. 양념 딱 한가지만 준비하세요. 마늘요리 마늘된장장아찌">
+
+                    <span class="thumb">
+                        
+                        
+                          
+                          
+                            <img
+                                    src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                    data-src="https://phinf.pstatic.net/tvcast/20220604_19/n5n3a_1654343473687GtX3A_JPEG/1654343347458.jpg?type=f236_133_blend"
+                                    data-aflag="false"
+                                    alt="마늘장아찌 가장 쉽게 담그는법. 양념 딱 한가지만 준비하세요. 마늘요리 마늘된장장아찌"
+                                    width="236" height="133">
+                          
+                        
+                        <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="임시 이미지">
+                        <span class="mask"></span>
+                        <em class="time">2:34</em>
+                        <div class="_barProgressWrapper"
+                             data-clipno="27163377"
+                             data-playtime="154"
+                             data-isshowed="false">
+                        </div>
+                    </span>
+        </a>
+        <a href="#" role="button" class="btn_my _click" data-event="setWatchLater" data-clipno="27163377" data-type="" aria-selected="false"><span class="blind">나중에 보기 <span class="_selectedText">선택 해제</span></span></a>
+    </div>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/27163377" title="마늘장아찌 가장 쉽게 담그는법. 양념 딱 한가지만 준비하세요. 마늘요리 마늘된장장아찌">
+          마늘장아찌 가장 쉽게 담그는법. 양념 딱 한가지만 준..
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>342</span>
+                <span class="like"><span class="blind">좋아요 수</span>1</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class="_rec_rolling_playlist  "
+    data-airs-session="w0WIpSN0kF1GXRb2"
+    data-airs-bypass='{"airs_session_id":"w0WIpSN0kF1GXRb2","bucket":"T14"}'
+    data-clipno="21947001"
+>
+
+    <div class="box">
+        <a class="_click" data-event="moveAnotherClipByUser"
+                data-moveclipno="21947001"
+                data-playlistno="0"
+                data-categorycode="FOOD"
+                data-issmr="false"
+        
+        
+        
+        
+                href='https://tv.naver.com/v/21947001' queryString="query=&plClips="
+        
+        
+                
+                    data-anisrc="https://phinf.pstatic.net/tvcast/20210819_197/pA2Qi_1629342466290hTTUq_GIF/66d98e10-009a-11ec-b0bd-b496915e8884.gif?type=mfullfill_236_133_ani_limit15"
+                
+                title="해놓으면 야무지게 먹는 간장 고추장아찌 : 쉬워요 쉬워~">
+
+                    <span class="thumb">
+                        
+                        
+                          
+                          
+                            <img
+                                    src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                    data-src="https://phinf.pstatic.net/tvcast/20210819_159/yKhCn_1629342463565h2Qh4_JPEG/1629342335119.jpg?type=f236_133_blend"
+                                    data-aflag="false"
+                                    alt="해놓으면 야무지게 먹는 간장 고추장아찌 : 쉬워요 쉬워~"
+                                    width="236" height="133">
+                          
+                        
+                        <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="임시 이미지">
+                        <span class="mask"></span>
+                        <em class="time">1:20</em>
+                        <div class="_barProgressWrapper"
+                             data-clipno="21947001"
+                             data-playtime="80"
+                             data-isshowed="false">
+                        </div>
+                    </span>
+        </a>
+        <a href="#" role="button" class="btn_my _click" data-event="setWatchLater" data-clipno="21947001" data-type="" aria-selected="false"><span class="blind">나중에 보기 <span class="_selectedText">선택 해제</span></span></a>
+    </div>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/21947001" title="해놓으면 야무지게 먹는 간장 고추장아찌 : 쉬워요 쉬워~">
+          해놓으면 야무지게 먹는 간장 고추장아찌 : 쉬워요 쉬..
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>118</span>
+                <span class="like"><span class="blind">좋아요 수</span>18</span>
+            </span>
+</li>
+          
+        
+      
+
+    </ul>
+  </div>
+
+  
+  <a href="javascript:;" class="btn_roll right _click" data-event="moveRight" title="다음 목록">다음 목록</a>
+  
+
+</div>
+
+
+</div>
+
+	</div>
+</div>
+
+        </div>
+    </div>
+    <!-- //플레이어 -->
+
+    <div id="content">
+        
+        <div id="empty" style="height:500px"></div>
+    </div>
+
+</div>
+<!-- //ct -->
+
+<div class="pl_layer" id="free_movie_notice" style="display:none;">
+    <iframe src="about:blank" style="position:absolute;left:0;top:0;width:100%;height:100%;border:none" frameborder="0" scrolling="no" title="빈 프레임"></iframe>
+    <div class="layer_wrap">
+        <div class="layer_ct">
+            <div class="layer_pop v5">
+                <div class="layer_box">
+                    <p class="text_notify">
+                        영상 초반에 안내되는 연령 정보를 확인<br>
+                        하고, 최소 기준 연령보다 낮을 경우 영상<br>
+                        시청을 삼가 주세요.
+                    </p>
+                    <div class="check_section"><input type="checkbox" id="notice_check" name="" class="chk_notify">
+                        <label for="notice_check" class="label_notify">알겠습니다.</label>
+                        <div class="btn_area">
+                            <a href="#" class="btn _click">확인</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="pop_toast" id="toastTimestamp" style="display:none">
+    <div class="toast_box">
+        <p id="timestamp_alert">광고 종료 후 이동합니다.</p>
+    </div>
+</div>
+
+
+
+
+<script type="text/x-jquery-tmpl" id="extraSocialPluginTpl">
+<li id="sharePlayer" class="_spi_cnt_copyurl spi_lnk_share {{= dimd}}">
+    <div class="splugin_panel">
+        <table border="0" summary="퍼가기 레이어" class="splugin_form">
+            <colgroup>
+                <col width="33px">
+                <col width="179px">
+                <col width="59px">
+                <col width="27px">
+            </colgroup>
+            <tbody>
+            <tr>
+                <th><label for="resolution">크기</label></th>
+                <td>
+                    <div class="select_box _playerSizeSelectBoxArea" id="resolution">
+                        <strong class="sel_btn">
+                            <a href="javascript:;" id="playerSizeSelectBox" class="_playerSizeSelectBox _click" data-event="showPlayerSizeSelectBox" data-width="544">544px * 306px</a>
+                        </strong>
+                        <ul class="ly_lst _playerSizeList">
+                            <li class="on"><a href="javascript:;" class="_setPlayerSize _click" data-event="setPlayerSize" data-width="544">544px * 306px</a></li>
+                            <li><a href="javascript:;" class="_setPlayerSize _click" data-event="setPlayerSize" data-width="740">740px * 416px</a></li>
+                            <li><a href="javascript:;" class="_setPlayerSize _click" data-event="setPlayerSize" data-width="936">936px * 526px</a></li>
+                            <li><a href="javascript:;" class="_setPlayerSize _click" data-event="setPlayerSize" data-width="1280">1280px * 720px</a></li>
+                        </ul>
+                    </div>
+                </td>
+                <th><label for="clipShareHtmlAutoPlayCheckbox">자동 재생</label></th>
+                <td>
+                <span id="sharePlayerAutoPlay" class="check_box chk_on _clipShareHtmlAutoPlay">
+                    <input type="checkbox" name="" id="clipShareHtmlAutoPlayCheckbox" class="chb _click" data-event="setAutoPlay">
+                    <span></span>
+                </span>
+                </td>
+            </tr>
+            <tr class="code">
+                <th><label>코드</label></th>
+                <td colspan="3">
+                    
+                    <input id="sharePlayerTagInput" class="input_url _clipShareHtmlInput" name=""  value="{{= sharePlayerTag}}" title="코드 복사" disabled><a href="javascript:;" id="sharePlayerTagCopyButton" class="btn_copy _clipShareHtmlButton" data-clipboard-text="{{= sharePlayerTag}}" data-type="clipShareHtml">복사</a>
+                    <div class="panel_notice">
+                        Flash 미지원으로 Object 코드 퍼가기 기능은<br>더 이상 지원되지 않습니다.
+                        <a href="https://help.naver.com/support/contents/contents.nhn?serviceNo=3609&categoryNo=3591"  data-event="helpLink" class="_spi_btn_help _click" target="_blank">도움말</a>
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</li>
+</script>
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+<script>
+    var continuousPlayList = {"list" : [], "playIndex" : 0};
+    const domParser = new DOMParser();
+
+    
+        continuousPlayList.list.push({
+            clipNo : '26568182',
+            isAdult : 'N',
+            title: jQuery(domParser.parseFromString("\uC774\uD2C0\uB9CC\uC5D0 \uC644\uC131\uB418\uB294 \uFEFF\uBB3C\uC5C6\uC774 \uC624\uC774\uC9C0\uB2F4\uADF8\uB294\uBC95 \uC624\uC774\uC7A5\uC544\uCC0C \uB9CC\uB4E4\uAE30 \uCC38\uC678\uC7A5\uC544\uCC0C \uC694\uB9AC", 'text/html')).find('body').text(),
+            thumbnail: "/20220502_165/UX31x_1651497864882SpOrq_JPEG/1651497769103.JPG",
+            duration: "343",
+            channelName: jQuery(new DOMParser().parseFromString("가루씨의 집밥", 'text/html')).find('body').text()
+        });
+
+        
+    
+        continuousPlayList.list.push({
+            clipNo : '25651160',
+            isAdult : 'N',
+            title: jQuery(domParser.parseFromString("\uB9DB \uBCF4\uBA74 \uB180\uB77C\uB294 \uC5F4\uBB34 \uC7A5\uC544\uCC0C \uB9CC\uB4DC\uB294\uBC95", 'text/html')).find('body').text(),
+            thumbnail: "/20220315_284/XTkxH_1647317746011GiqeM_JPEG/1647317659939.jpg",
+            duration: "229",
+            channelName: jQuery(new DOMParser().parseFromString("집밥 종갓집 며느리", 'text/html')).find('body').text()
+        });
+
+        
+    
+        continuousPlayList.list.push({
+            clipNo : '27053472',
+            isAdult : 'N',
+            title: jQuery(domParser.parseFromString("\uC5F4\uBB34\uAE40\uCE58 \uB9CC\uB4DC\uB294 \uBC95 \uC544\uC0AD\uC544\uC0AD \uB9DB\uC788\uB294 \uC5F4\uBB34\uBB3C\uAE40\uCE58 \uB2F4\uADF8\uB294\uBC95", 'text/html')).find('body').text(),
+            thumbnail: "/20220530_124/JF9QU_1653861465568c9d0w_JPEG/3bf608b4-df9a-11ec-b77c-48df379cca40_01.jpg",
+            duration: "155",
+            channelName: jQuery(new DOMParser().parseFromString("달콤긍정 간단한 요리세계", 'text/html')).find('body').text()
+        });
+
+        
+    
+        continuousPlayList.list.push({
+            clipNo : '25871597',
+            isAdult : 'N',
+            title: jQuery(domParser.parseFromString("\uB098\uD63C\uC790 \uC54C\uAE30 \uC544\uAE4C\uC6CC \uC18C\uAC1C\uD569\uB2C8\uB2E4!! \uCD08\uAC04\uB2E8 \uFEFF\uC591\uD30C\uC7A5\uC544\uCC0C\uB9CC\uB4E4\uAE30 \uC591\uD30C\uC694\uB9AC \uC77C\uC8FC\uC77C \uBC11\uBC18\uCC2C", 'text/html')).find('body').text(),
+            thumbnail: "/20220326_38/0KNgC_1648292971112Qzmcj_JPEG/1648292960777.JPG",
+            duration: "170",
+            channelName: jQuery(new DOMParser().parseFromString("가루씨의 집밥", 'text/html')).find('body').text()
+        });
+
+        
+    
+        continuousPlayList.list.push({
+            clipNo : '27036715',
+            isAdult : 'N',
+            title: jQuery(domParser.parseFromString("\uD587\uB9C8\uB298 \uBCF4\uC774\uBA74 \uAF2D \uC0AC\uC640 \uB2F4\uAC00\uBCF4\uC138\uC694! \uFEFF\uB9C8\uB298\uC7A5\uC544\uCC0C \uD1B5\uB9C8\uB298\uC7A5\uC544\uCC0C \uB2F4\uADF8\uB294\uBC95  \uD1B5\uB9C8\uB298 \uC694\uB9AC", 'text/html')).find('body').text(),
+            thumbnail: "/20220528_260/Aq4E9_1653743062651YKgte_JPEG/1653742884901.JPG",
+            duration: "378",
+            channelName: jQuery(new DOMParser().parseFromString("가루씨의 집밥", 'text/html')).find('body').text()
+        });
+
+        
+    
+        continuousPlayList.list.push({
+            clipNo : '26292478',
+            isAdult : 'N',
+            title: jQuery(domParser.parseFromString("\uC591\uD30C\uC7A5\uC544\uCC0C \uB9CC\uB4E4\uAE30 \uC591\uD30C\uC694\uB9AC \uC7A5\uC544\uCC0C\uAC04\uC7A5 \uC774\uAC70\uC9C0 \uC81C\uCCA0\uBC18\uCC2C", 'text/html')).find('body').text(),
+            thumbnail: "/20220418_201/WgOoB_1650254524832rbU1n_JPEG/1650254353805.jpg",
+            duration: "141",
+            channelName: jQuery(new DOMParser().parseFromString("욜리홈쿡", 'text/html')).find('body').text()
+        });
+
+        
+    
+        continuousPlayList.list.push({
+            clipNo : '21917071',
+            isAdult : 'N',
+            title: jQuery(domParser.parseFromString("\uC5EC\uB984\uBB34 \uB9DB\uC788\uAC8C \uBA39\uB294 \uBC95\u3163\uBB34\uCC44\uC7A5\uC544\uCC0C\uC5D0 \uAE7B\uC78E\uC744 \uB123\uC5C8\uB354\uB2C8 \uAE5C\uC9DD \uB180\uB790\uC5B4\uC694\u3163\uD558\uB8E8 \uB9CC\uC5D0 \uB2F4\uAC00 \uBA39\uB294 \uBB34\uC7A5\uC544\uCC0C\u3163\uC27D\uAC8C \uB2F4\uADF8\uB294 \uC7A5\uC544\uCC0C", 'text/html')).find('body').text(),
+            thumbnail: "/20210817_75/Ht1RA_1629196896027vKFWG_JPEG/1629196893431.jpg",
+            duration: "263",
+            channelName: jQuery(new DOMParser().parseFromString("상아의홈", 'text/html')).find('body').text()
+        });
+
+        
+    
+        continuousPlayList.list.push({
+            clipNo : '26785421',
+            isAdult : 'N',
+            title: jQuery(domParser.parseFromString("\uC624\uC774\uC9C0\uB2F4\uADF8\uB294\uBC95 \uC624\uC774\uC9C0\uB2F4\uADF8\uAE30 \uAC04\uC7A5\uC624\uC774\uC9C0 \uC624\uC774\uD53C\uD074", 'text/html')).find('body').text(),
+            thumbnail: "/20220515_223/suXM7_1652601907312ftekG_JPEG/1652601898887.jpg",
+            duration: "203",
+            channelName: jQuery(new DOMParser().parseFromString("요리사랑 cooking", 'text/html')).find('body').text()
+        });
+
+        
+    
+        continuousPlayList.list.push({
+            clipNo : '27163377',
+            isAdult : 'N',
+            title: jQuery(domParser.parseFromString("\uB9C8\uB298\uC7A5\uC544\uCC0C \uAC00\uC7A5 \uC27D\uAC8C \uB2F4\uADF8\uB294\uBC95. \uC591\uB150 \uB531 \uD55C\uAC00\uC9C0\uB9CC \uC900\uBE44\uD558\uC138\uC694. \uB9C8\uB298\uC694\uB9AC \uB9C8\uB298\uB41C\uC7A5\uC7A5\uC544\uCC0C", 'text/html')).find('body').text(),
+            thumbnail: "/20220604_19/n5n3a_1654343473687GtX3A_JPEG/1654343347458.jpg",
+            duration: "154",
+            channelName: jQuery(new DOMParser().parseFromString("팔숙이", 'text/html')).find('body').text()
+        });
+
+        
+    
+        continuousPlayList.list.push({
+            clipNo : '21947001',
+            isAdult : 'N',
+            title: jQuery(domParser.parseFromString("\uD574\uB193\uC73C\uBA74 \uC57C\uBB34\uC9C0\uAC8C \uBA39\uB294 \uAC04\uC7A5 \uACE0\uCD94\uC7A5\uC544\uCC0C : \uC26C\uC6CC\uC694 \uC26C\uC6CC~", 'text/html')).find('body').text(),
+            thumbnail: "/20210819_159/yKhCn_1629342463565h2Qh4_JPEG/1629342335119.jpg",
+            duration: "80",
+            channelName: jQuery(new DOMParser().parseFromString("맘마랜드", 'text/html')).find('body').text()
+        });
+
+        
+    
+</script>
+
+<script type="text/javascript" src="https://ssl.pstatic.net/img.tvcast/pc/js/jQuery/jQuery.tmpl.min.js"></script>
+
+
+    
+        <script type="text/javascript" src='/resources/release/js_v2/clipEnd/tvcast.pc.ClipEnd.all_20220714152047.js'></script>
+    
+    
+
+
+<script type="text/javascript">
+    var nsc = 'tvcast.end';
+    var timeStamp = '1659792163894';
+    var ghtEnv = {
+        sPageName : "clipEnd"
+        , nClipNo : 28039069
+        , sPartnerNo : '53423'
+        , sStationNo : '53464'
+        , sVideoId : '0722F531B4A266E2F0C99B47E89DC28DDC78'
+        , sSearchKeyword : ''
+        , sChannelId : 'kyscook'
+        , sDisplayChannelId: 'kyscook'
+        , sChannelName : '빵숙cook'
+        , sClipNo : '28039069'
+        , sCategoryCodeAsString : 'FOOD'
+        , nLikeItCount : 23
+        , sLikeItDomain : 'https://common.like.naver.com'
+        , bIsLogin : false
+        , sAccessKey : ''
+        , nPlaylistNo : 0
+        , sPlaylistType : 'GENERAL'
+        , nNextClipNo : '0'
+        , nNextPlaylistNo : '0'
+        , sContinuousPlayCookieKey : 'NTC_ContPL'
+        , sClipboardSwfUrl : '/resources/swf/clipboard.swf'
+        , sCurrentClipUrl : 'https://tv.naver.com/v/28039069'
+        , sNextClipUrl : 'https://tv.naver.com/v/0'
+        , sPrevClipUrl: 'https://tv.naver.com/v/0'
+        , bIsDescriptionAvailable : true
+        , bIsDescriptionOpened : false
+        , bCommentOpen : false
+        , bIsSmr : false
+        , htComment2Option : {"domain":"https://ssl.pstatic.net/static.cbox","apiDomain":"https://apis.naver.com/commentBox/cbox","login":false,"ticket":"channel01","templateId":"default","objectId":"28039069","language":"ko","country":"KR","pageType":"default","pageSize":20,"indexSize":5,"replyPageSize":5,"cssId":"tvcast","cssUrl":"https://tv.naver.com/resources/release/css/comment/comment_tvcast_20220714152047.css","id":"cbox_module","likeItId":"28039069","help":"down","groupId":"kyscook","message":{"template":{"info_comment_off":"해당 동영상은 댓글을 사용하지 않습니다."}},"dateFormat":"Y.m.d. H:i:s"}
+        , apiDomain : "https://api.tv.naver.com"
+        , logApiDomain : "https://logapi.tv.naver.com"
+        , nstoreFreeMovie : "false"
+        , sQuery : ""
+        , sPlClips : ""
+		, specialDAYn : "N"
+        , sPhotoInfraUrl : "https://phinf.pstatic.net/tvcast"
+        , oCurrentPlaylist : this.continuousPlayList
+        , sPatronServiceId : 'ntv'
+        , sPatronProductId : ""
+        , sPatronResourceDomain : 'https://common.patron.naver.com'
+        , sBrandId : ''
+        , bIsManager : false
+        , bIsScrappable: true
+    };
+
+    jQuery(window).on("load", function() {
+        tvcast.pc.Gnb.init();
+        tvcast.pc.ClipEnd.init();
+        tvcast.pc.LikeIt.init(ghtEnv);
+        tvcast.LikeItAnimation.init({
+            containerId: 'likeLottie'
+        });
+        tvcast.pc.Subscription.init();
+        tvcast.pc.CreatorSubscription.init();
+        tvcast.pc.AnimateThumb = new tvcast.pc.AnimateThumb({
+            "baseEl" : "container"
+        });
+
+        tvcast.pc.likeItApiController = new LikeItApiController({
+            domain: ghtEnv.sLikeItDomain,
+            serviceId: 'TVCAST'
+        });
+
+        if (typeof ClipEndPlayer !== "undefined" && !!window.playerOptions) {
+            ClipEndPlayer.init(playerOptions);
+            ClipEndPlayer.setHandOff(handOff, 'tv_video', '28039069', 'https://sidekick.fever.naver.com');
+        }
+
+        tvcast.pc.Patron.init({
+            sPatronServiceId : ghtEnv.sPatronServiceId
+            , sPatronProductId : ghtEnv.sPatronProductId
+            , sPatronResourceDomain : ghtEnv.sPatronResourceDomain
+        });
+        tvcast.pc.ClipProgressBar.init();
+    });
+</script>
+
+
+
+
+
+<div class="floating_top">
+    <iframe frameborder="0" src="about:blank" style="position:absolute;left:0;top:0;width:100%;height:100%;border:none;vertical-align:bottom" title="TOP"></iframe>
+    <a href="/" class="btn btn_home" onclick="clickcr(this, 'mov.home', '', '', event)" title="홈">홈</a>
+    <a href="#" class="btn btn_top" onclick="goTop();clickcr(this, 'mov.top', '', '', event)" title="TOP">TOP</a>
+</div>
+
+<script>
+    function goTop(){
+		window.scrollTo(0, 0);
+		var topEl = document.getElementById('u_skip');
+		if (topEl) {
+			topEl.tabIndex = -1;
+			topEl.focus();
+			topEl.removeAttribute('tabIndex');
+		}
+    }
+</script>
+
+</div>
+
+
+
+
+
+<div id="footer">
+<ul>
+    <li class="first"><a href="http://www.naver.com/rules/service.html" target="_blank" onClick="clickcr(this, 'fot.agreement', '', '', event);">이용약관</a></li>
+    <li><a href="http://www.naver.com/rules/privacy.html" target="_blank" onClick="clickcr(this, 'fot.privacy', '', '', event);">개인정보처리방침</a></li>
+    <li><a href="http://www.naver.com/rules/disclaimer.html" target="_blank" onClick="clickcr(this, 'fot.disclaimer', '', '', event);">책임의 한계와 법적고지</a></li>
+    <li><a href="https://help.naver.com/support/alias/navertv/navertv_home-PC.naver" target="_blank" onClick="clickcr(this, 'fot.helpdesk', '', '', event);">네이버TV 고객센터</a></li>
+    <li><a href="https://studio.tv.naver.com/join" target="_blank" onClick="clickcr(this, 'fot.chopen', '', '', event);">채널 만들기</a></li>
+    <li><a href="/n/policy" onClick="clickcr(this, 'fot.policy', '', '', event);">운영정책</a></li>
+</ul>
+<p class="info">본 콘텐츠의 저작권은 저작권자에 있으며, 이를 무단으로 이용하는 경우 저작권법 등에 따라 법적 책임을 질 수 있습니다.</p>
+<address>
+    <a href="http://www.naver.com" class="nhn" target="_blank" onClick="clickcr(this, 'fot.navercorp', '', '', event);">
+        <img src="https://ssl.pstatic.net/static/common/footer/ci_naver.png" width="63" height="11" alt="NAVER">
+    </a>
+    <em>Copyright ©</em>
+    <a href="https://www.navercorp.com" target="_blank" onClick="clickcr(this, 'fot.navercorp', '', '', event);">NAVER Corp.</a>
+    <span>All Rights Reserved.</span>
+</address>
+
+</div>
+
+<div class="dimd" id="layerDimd" style="display:none"></div>
+
+<script type="text/javascript">
+	function redirectMobile() {
+		setCookie("NTC_PC_MODE", "false");
+		var sRedirectPcUrl = "";
+		
+		if (location.search === "") {
+			sRedirectPcUrl = 'https://m.tv.naver.com'+ location.pathname;
+		} else {
+			sRedirectPcUrl = 'https://m.tv.naver.com' +
+							  location.pathname +
+	        				  location.search.split("&")[0];
+		}
+		location.href = sRedirectPcUrl;
+	}
+	
+	function setCookie(name, value) {
+		var domain = ".tv.naver.com";
+		var path = "/";
+		document.cookie = name + "=" + value + "; path=" + path + "; domain=" + domain;
+    }
+
+	var TagAZ = {
+		query: function (obj) {
+			var q = "";
+			if (obj) {
+				q = "?";
+				for (var key in obj) {
+					q += key + "=" + obj[key] + "&";
+				}
+			}
+			return q;
+		},
+		getPageName: function() {
+			if (typeof ghtEnv !== 'undefined') {
+				return ghtEnv.pageName ? ghtEnv.pageName : "";
+			}
+			return "";
+		},
+		getPageContentsId: function() {
+			if (typeof ghtEnv !== 'undefined') {
+				return ghtEnv.pageContentsId ? ghtEnv.pageContentsId : "";
+			}
+			return "";
+		},
+		url: function(obj) {
+			if(obj.href) {
+				return obj.href;
+			}
+			return "";
+		},
+		send: function (r) {
+			var sReq =r;
+			var oImg = new Image();
+			oImg.src = sReq;
+		},
+		tagClickEncoded : function (tagName, pageId, contentId) {
+			TagAZ.clicklog(tagName, pageId, contentId);
+		},
+		tagClick : function(tagName, pageId, contentId) {
+			tagName = encodeURIComponent(tagName);
+			TagAZ.clicklog(tagName, pageId, contentId);
+		},
+		clicklog : function (tagName, pageId, contentId) {
+			var obj = {
+				a : nsc,
+				c : contentId,
+				d : location.href,
+				f : (document.referrer ? document.referrer : ""),
+				p : pageId,
+				t : tagName, // tagName
+
+			}
+			var q = TagAZ.query(obj);
+			TagAZ.send("/api/az/nc" + q);
+		}
+	};
+
+</script>
+</body>
+</html>
