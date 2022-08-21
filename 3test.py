@@ -11,3 +11,5 @@ sys.stderr = io.TextIOWrapper(sys.stderr.detach(), encoding = 'utf-8')
 q=int(input('입력?'))
 
 print(q)
+
+print(p)
